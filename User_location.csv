@@ -1,0 +1,3734 @@
+customer_id,city,state,country
+4555,Milano,MI,Italy
+5269,Gilbertsville,Pennsylvania,United States
+5525,Smithfield,North Carolina,United States
+5577,Choctaw,OK,United States
+6007,Houston,TX,United States
+6767,LEWISVILLE,TX,United States
+6801,New York,NY,United States
+6890,Sebastian,FL,United States
+7097,Denver,Colorado,United States
+7190,Glendale,AZ,United States
+7577,Singapore,Singapore,Singapore
+8061,Palm Beach Gardens,Florida,United States
+8621,Kaysville,UT,United States
+40010,Denver,CO,United States
+9989,San Gabriel,CA,United States
+40121,San Diego,CA,United States
+40211,Irvine,CA,United States
+41091,Scottsdale,az,United States
+41120,Hyattsville,MD,United States
+41711,Seoul,Seoul,South Korea
+41801,Port Perry,Ontario,Canada
+41855,MANORVILLE,New York,United States
+41919,Cream Ridge,NJ,United States
+41969,Corinth,TX,United States
+42060,Greenville,SC,United States
+42017,Glendale,AZ,United States
+40069,Bucharest,Bucharest,Romania
+40275,Manila,Ma,Philippines
+40815,Orinda,California,United States
+44020,Austin,TX,United States
+44040,Preston,VIC,Australia
+44101,Honolulu,HI,United States
+44277,Marlborough,Massachusetts,United States
+44029,Schenectady,New York,United States
+44601,VANCOUVER,BC,Canada
+45067,Sandy,Beds,United Kingdom
+45060,Crewe,CHESHIRE,United Kingdom
+46577,San Jose,California,United States
+46560,Vancouver,bc,Canada
+46751,Chicago,IL,United States
+47551,Brooklyn,NY,United States
+47895,Tilshead,Wiltshire,United Kingdom
+47851,Walkersville,MD,United States
+47985,Emeryville,CA,United States
+48247,Slough,Berks,United Kingdom
+48007,Shelby,IA,United States
+48541,Isle Of Palms,SC,United States
+49001,Hoboken,NJ,United States
+49807,Cape town,western province,United Kingdom
+50019,Frederiksberg C,Frederiksberg,Denmark
+50080,Waller,TX,United States
+50801,Bridgeport,CT,United States
+50900,Riverview,Florida,United States
+51121,Dallas,Texas,United States
+51097,Adel,IA,United States
+51785,Calgary,AB,Canada
+51811,Matthews,NC,United States
+52011,Boulder,CO,United States
+52141,Birmingham,AL,United States
+52245,Thornton,Colorado,United States
+52079,Calgary,AB,Canada
+50810,Mississauga,Ontario,Canada
+54019,Studio City,California,United States
+54209,Carlsbad,California,United States
+54259,Snellville,GA,United States
+54045,Colorado Springs,CO,United States
+54467,Brandon,florida,United States
+54571,Santa Clara,CA,United States
+54600,Houston,tx,United States
+54779,Emeryville,CA,United States
+55005,Zebulon,nc,United States
+55545,North Hollywood,California,United States
+55609,St. Albert,AB,Canada
+55640,Ventura,CA,United States
+55787,Little Rock,Arkansas,United States
+55965,Marlton,NJ,United States
+56017,Grand Junction,CO,United States
+56267,Modesto,CA,United States
+56257,Berlin,Berlin,Germany
+56280,Chelmsford,Essex,United Kingdom
+56005,Azusa,Ca,United States
+56605,Amsterdam,Noord-Holland,Netherlands
+56869,Deerfield Beach,Florida,United States
+56809,Powderly,Texas,United States
+57445,Weston,FL,United States
+57510,Miami,FL,United States
+57540,St Albert,Alberta,Canada
+57671,Islip Terrace,NY,United States
+58247,Telford,Telford,United Kingdom
+58507,Atlanta,ga,United States
+58505,North Bethesda,Maryland,United States
+59211,Flint,Michigan,United States
+59040,Mandelieu la Napoule,6,France
+59400,Albuquerque,New Mexico,United States
+59477,Milwaukee,WI,United States
+59841,Salford,United Kingdom,United Kingdom
+59925,Lansdale,PA,United States
+60501,Chicago,il,United States
+60677,Nairobi,Nairobi,Kenya
+60900,Edgewater,Colorado,United States
+61101,Caledon,ON,Canada
+61599,Athens,GA,United States
+61707,Santa Rosa,CA,United States
+62089,Eagleville,Pa,United States
+62615,Montreal,Quebec,Canada
+62779,Sacramento,CA,United States
+62889,Trois-Rivi;res,Quebec,Canada
+60079,Flushing,NY,United States
+64029,Redmond,WA,United States
+64201,Chapel Hill,NC,United States
+65155,Castle rock,co,United States
+65607,Copenhagen,Denmark,Denmark
+66091,Minneapolis,MN,United States
+66419,Elk Grove,California,United States
+67700,San jose,Ca,United States
+67947,Bangalore,KA,India
+67907,Felton,CA,United States
+68865,Manchester,Lancashire,United Kingdom
+68879,Washington,DC,United States
+69199,Romford,essex,United Kingdom
+69740,Olivet,Michigan,United States
+69795,Chicago,Illinois,United States
+70645,Abu Dhabi,Abu Dhabi,United Arab Emirates
+70801,Flemington,NJ,United States
+71677,Den Bosch,Nederland,Netherlands
+72169,Sacramento,Ca,United States
+72207,Como,NSW,Australia
+72750,Citrus Heights,Ca,United States
+72840,Seattle,Washington,United States
+72911,Thurmont,MD,United States
+72975,Pacifica,ca,United States
+72941,Galena,oh,United States
+70020,Cochrane,AB,Canada
+70129,Vanessa,Ontario,Canada
+70041,Arvada,CO,United States
+70000,St Leonards,NSW,Australia
+70201,Payson,Ut,United States
+70220,Dallas,Texas,United States
+70060,Marlborough,MA,United States
+70457,Gillette,WY,United States
+70417,Bellmawr,New Jersey,United States
+70079,Montreal,Quebec,Canada
+70545,Granada Hills,California,United States
+70540,North Vancouver,BC,Canada
+70671,Burnaby,BC,Canada
+70617,Loma Linda,CA,United States
+70550,Linlithgow,West Lothian,United Kingdom
+70581,Ft. Worth,Texas,United States
+70879,Plantation,fl,United States
+70780,Shailer Park,QLD,Australia
+74005,Cary,NC,United States
+74011,OAKLAND PARK,FL,United States
+70979,Middle Dural,NSW,Australia
+70971,New York,New York,United States
+70981,Omaha,NE,United States
+70901,Chesterfield,Mo,United States
+74825,Mailsi,punjab,United States
+74879,Oakland Park,FL,United States
+74849,Nicosia,NA,Cyprus
+74587,Battlefield,MO,United States
+74755,Soquel,CA,United States
+74059,Wyndham Vale,Vic,Australia
+74299,Berriedale,Tasmania,Australia
+74050,Buenos Aires,Buenos Aires,Argentina
+74219,Iowa City,IA,United States
+74105,Winchester,VA,United States
+74907,New York,NY,United States
+74957,WALNUT CREEK,CALIFORNIA,United States
+75009,Greeley,CO,United States
+75410,San Diego,California,United States
+75529,Centennial,CO,United States
+75509,Poway,CA,United States
+75600,Tokyo,JP,Japan
+75715,Faringdon,Oxfordshire,United Kingdom
+75719,Vancouver,British Columbia,Canada
+75921,Durham,NC,United States
+75881,Vancouver,BC,Canada
+75905,Castro Valley,California,United States
+75967,Rohnert Park,CA,United States
+76049,Ratingen,North Rhine-Westphalia,Germany
+76067,Vacaville,CA,United States
+76865,North Fort Myers,FL,United States
+76825,Tallmadge,OH,United States
+76907,Sheffield,N/A,United Kingdom
+76921,Tucson,AZ,United States
+77127,AE,DUBAI,United Arab Emirates
+77265,OREFIELD,PA,United States
+77240,San Diego,CA,United States
+77415,Elmhurst,Illinois,United States
+77047,Bloomington,Minnesota,United States
+77507,ELKO,Nevada,United States
+77549,Clarksburg,MD,United States
+77651,Singapore,SGP,Singapore
+77629,Lincoln,NE,United States
+78017,Seattle,WA,United States
+78105,Los Angeles,CA,United States
+78211,Fairfield,Ca,United States
+78005,Mableton,GA,United States
+78409,Liverpool,Merseyside,United Kingdom
+78500,Ventura,CA,United States
+78529,San Clemente,CA,United States
+78519,Las Vegas,NV,United States
+78601,Venice,California,United States
+78819,Toronto,Ontario,United States
+78909,Vancouver,BC,Canada
+79000,Amsterdam,Noord-Holland,Netherlands
+79145,Keller,Tx,United States
+79179,San Francisco,CA,United States
+79159,Saginaw,Michigan,United States
+79291,Lakewood,NJ,United States
+79240,Taylorville,il,United States
+79001,Somerville,Massachusetts,United States
+79045,Tonawanda,New York,United States
+79067,Emeryville,CA,United States
+79445,ISTANBUL,Istanbul,Turkey
+79465,Surrey,BC,Canada
+79740,San Francisco,CA,United States
+79700,Powell,OH,United States
+80175,Brunswick West,VIC,Australia
+80271,Scottsdale,AZ,United States
+80085,Ballarat,VIC,Australia
+80459,Evans Plains,NSW,Australia
+80451,San Diego,CA,United States
+80769,Califon,NJ,United States
+80915,San Francisco,ca,United States
+81005,Kuala Lumpur,Wilayah,Malaysia
+81141,Sherman Oaks,CA,United States
+81180,Magnolia,TX,United States
+81279,Alexandria,VA,United States
+81427,South Lyon,Michigan,United States
+81870,Addison,TX,United States
+81925,Hermosa beach,Ca,United States
+82080,East Brunswick,NJ,United States
+82047,Irving,Texas,United States
+82517,Kent,Wa,United States
+82599,Norristown,PA,United States
+82801,Monaca,PA,United States
+82970,London,-,United Kingdom
+82967,Edmonton,AB,United States
+80107,Ardrossen,Alberta,Canada
+80159,Miami,Florida,United States
+80119,Winnipeg,manitoba,Canada
+80200,Denver,CO,United States
+80265,Weehawken,NJ,United States
+80020,Petrie Terrace,Queensland,Australia
+80420,London,London,United Kingdom
+80509,San Diego,California,United States
+80700,Ocala,FL,United States
+80797,Seattle,Wa,United States
+80845,Grandville,MI,United States
+84251,Cremorne,NSW,Australia
+84069,Citrus Heights,CA,United States
+84410,Secunderabad,Telangana,India
+84511,San Jose,CA,United States
+84707,Pembroke Pines,FL,United States
+85017,Hong Kong,NA,Hong Kong
+85151,Woodland Hills - Utah,UTAH,United States
+85141,Madison,MS,United States
+85147,Augsburg,Bayern,Germany
+85299,Sunnyside,NY,United States
+85529,North Hollywood,CA,United States
+85861,Glendale,California,United States
+86100,Alexandria,VA,United States
+86205,Buffalo Grove,IL,United States
+86177,Riverside,CT,United States
+86165,Colorado springs,co,United States
+86151,Columbus,INDIANA,United States
+86101,Surry Hills,NSW,Australia
+86025,Medford,Oregon,United States
+86477,New Cumberland,Pa,United States
+86415,New York,New York,United States
+86001,Highland Village,TX,United States
+86680,Winter Haven,Florida,United States
+86665,Coto de Caza,CA,United States
+87110,Dublin,Dublin,Ireland
+86955,Portland,Or,United States
+87009,Lucerne,Lucerne,Switzerland
+87025,Bronx,New York,United States
+87575,Castro Valley,ca,United States
+87565,Damascus,MD,United States
+87827,Morgan hill,ca,United States
+88029,Keeling,VA,United States
+87891,Brussels,Brussels,Belgium
+88070,Irvine,CALIFORNIA,United States
+88289,San Marcos,CA,United States
+88081,Washington,DC,United States
+88497,Suwanee,GA,United States
+88485,Edison,New Jersey,United States
+88770,Bakersfield,Ca,United States
+88709,Laguna Hills,CA,United States
+88901,Highlands Ranch,CO,United States
+88849,Osaka,osaka fu,Japan
+89055,Oran Park,New South Wales,Australia
+89240,Cary,NC,United States
+89049,Fitchburg,Wisconsin,United States
+89687,Singapore,Singapore,Singapore
+89770,Ventura,CA,United States
+89859,Greenville,KY,United States
+89851,Austin,TX,United States
+90079,Muang,Chiangmai,Thailand
+90019,Sanford,FL,United States
+90151,Olney,MD,United States
+90170,Van Nuys,CA,United States
+90009,Kent,WA,United States
+90050,Santa Monica,CA - California,United States
+90090,Bridgeport,Connecticut,United States
+90520,Agege,lagos state,Australia
+90495,Streamwood,Illinois,United States
+90470,Worthing,West Sussex,United Kingdom
+90700,Pretoria,Gauteng,South Africa
+91020,Rockford,IL,United States
+91147,Caledon East,ON,Canada
+91107,Charlottesville,Virginia,United States
+91299,Colorado Springs,CO,United States
+91005,Hamburg,Hamburg,Germany
+91407,Yorkton,SK,Canada
+91479,Perth,WA,Australia
+91429,Bellingham,MA,United States
+91489,Oklahoma City,OK,United States
+91820,Pasadena,TX,United States
+91799,Frederiksberg,-,Denmark
+91865,Arcadia,California,United States
+91907,Washington,DC,United States
+92665,Caledon East,Ontario,Canada
+92717,Cordoba,veracruz,United States
+92845,New York,NY,United Kingdom
+92879,Berlin,Berlin,Germany
+90101,Rutherford,nj,United States
+90180,Duluth,Mn,United States
+90491,Spring Hill,FL,United States
+90895,Franklin,Tennessee,United States
+94005,Chicago,Illinois,United States
+94047,Muang,phuket,Thailand
+94220,Park Ridge,IL,United States
+94249,Dubai,Dubai,United Arab Emirates
+94019,Blue bell,pa,United States
+94000,Howard beach,New York,United States
+94075,Mumbai,Maharashtra,India
+94760,Fort Wayne,IN,United States
+94810,Gijzegem,Oost-Vlaanderen,Belgium
+94801,Southsea,Hampshire,United Kingdom
+95115,London,London,United Kingdom
+95145,Omaha,NE,United States
+95211,Hoschton,GA,United States
+95261,Etterbeek,Brussels,United Kingdom
+95409,Kuala Lumpur,Wilayah Persekutuan,Malaysia
+95529,Congerville,IL,United States
+95677,London,England,United Kingdom
+95975,Brussels,Brussels,Belgium
+96097,Indianapolis,IN,United States
+96065,Northampton,Northamptonshire,United Kingdom
+96049,Houston,TX,United States
+96575,Flushing,NY,United States
+96645,Falkirk,Stirlingshire,United Kingdom
+96900,Quezon City,Metro Manila,Philippines
+96920,Miami,fl,United States
+97091,Terrigal,NSW,Australia
+97229,Sunnyvale,CA,United States
+97289,Buff Point,NSW,Australia
+97815,Melbourne,Victoria,Australia
+97900,Barrington,IL,United States
+98140,Granada Hills,California,United States
+98065,Woodbury,MN,United States
+98087,New York,NY,United States
+98421,Unionville,CT,United States
+98669,Celje,Celje,Slovenia
+98845,Tanjong Sepat,Other,New Zealand
+98869,Esperance,WA,Australia
+98951,Ladysmith,BC,Canada
+98955,Lima,Li,Peru
+99515,Vila do Conde,Porto,Portugal
+99705,Wesley Chapel,Florida,United States
+99651,Mableton,GA,United States
+99761,Sausar,madhya pradesh (india),United States
+180,Honolulu,Hawaii,United States
+197,Parsippany,NJ,United States
+597,Towson,maryland,United States
+589,Antioch,TN,United States
+580,Lavon,Texas,United States
+609,Jersey City,NJ,United States
+657,Dunedin,Otago,New Zealand
+607,Clarksburg,PA,United States
+625,Kinkora,PE,Canada
+725,San Marcos,CA,United States
+827,London,Greater London,United Kingdom
+1100,Pearland,TX,United States
+1089,East Setauket,New York,United States
+1419,Clarksville,MD,United States
+1865,New York,NY,United States
+2081,Chandler,AZ,United States
+2077,Antioch,Tennessee,United States
+2249,Broomfield,Colorado,United States
+2229,Palm Harbor,Fl,United States
+2291,Cedar Park,TX,United States
+861,Orlando,FL,United States
+2081,Breda,Noord Brabant,Netherlands
+2789,Lindenberg,Bavaria,Germany
+2841,Anaheim,California,United States
+25,Kilmarnock,East Ayrshire,United Kingdom
+150,Paradise Point,QLD,Australia
+527,Washington,DC,United States
+517,Mandurah,Western Australia,Australia
+885,Brooklyn,NY,United States
+951,Denver,Co,United States
+941,New York,New York,United States
+4079,Toronto,Ontario,Canada
+4019,New York,NY,United States
+4101,Mount Kisco,NY,United States
+4460,Saint Simons Island,GA,United States
+4970,Bloomsburg,Pa,United States
+4980,DORAL,FL,United States
+5099,Chicago,Illinois,United States
+5079,Compton,CA,United States
+5179,Bexleyheath,Kent,United Kingdom
+5020,East Point,GA,United States
+5505,St Joseph,St Joseph,Trinidad and Tobago
+5560,Madison,Wisconsin,United States
+5605,Auburn,WA,United States
+5775,Canterbury,Kent,United Kingdom
+5821,Stafford,QLD,Australia
+5875,Bonn,North Rhine-Westphalia,Germany
+6045,San juan,PR,United States
+6161,Falls Church,Virginia,United States
+6240,New York,NY,United States
+6275,Cochabamba,Cercado,Bolivia
+6447,Greenwood Village,CO,United States
+6585,Littleton,CO,United States
+6815,Port Macquarie,nsw,Australia
+6829,San Salvador,n/a,El Salvador
+7745,Somerset,NJ,United States
+8000,San Diego,CA,United Kingdom
+8669,Jacksonville,Fl,United States
+9151,B42rooklyn,New York,United States
+9095,Sunnyvale,California,United States
+9591,Calgary,Ab,Canada
+9880,Naples,FL,United States
+9917,Memphis,Tennessee,United States
+10011,Edmonton,Alberta,Canada
+10001,London,London,United Kingdom
+10297,Ajax,Ontario,Canada
+10591,Southfield,MI,United States
+10697,Wyckoff,New Jersey,United States
+10840,Philomath,OR,United States
+12640,Haywards Heath,West Sussex,United Kingdom
+12679,Miramar,Florida,United States
+12725,New Berlin,NY,United States
+12807,Okemos,Mi,United States
+10000,Clarkston,Michigan,United States
+10209,Edmonton,Alberta,United States
+10215,Singapore,Singapore,Singapore
+10190,Cary,NC,United States
+10600,ScottsdLe,Az,United States
+10797,WESTBORO,MA,United States
+10877,Holland,MI,United States
+14101,Shelburne Falls,MASSACHUSETTS,United States
+14017,Issaquah,WA,United States
+14057,Farmington,Utah,United States
+14521,Wiener Neustadt,N;,Austria
+14675,Brandon,Manitoba,Canada
+14699,Charleston,SC,United States
+14821,Aylesbury,Buckinghamshire,United Kingdom
+14899,Carpinteria,CA,United States
+14970,Antioch,CA,United States
+15505,Richmond Hill,ON,Canada
+15577,East Brunswick,NJ - New Jersey,United States
+15816,Purcellville,Virginia,United States
+15810,Fort Collins,CO,United States
+16297,New York,New York,United States
+16055,Telok Panglima Garang,Selangor,Malaysia
+16871,Chicago,IL,United States
+16980,Burlingame,CA,United States
+17247,Mashpee,MASSACHUSETTS,United States
+17007,Miami,Florida,United States
+17289,Fresno,CA,United States
+17447,Brooklyn,New York,United States
+17511,Idaho Falls,ID,United States
+17580,Spring Hill,FL,United States
+18071,Swanage,Dorset,United Kingdom
+18255,Brooklyn,NY,United States
+18050,Washington,DC,United States
+18490,Colton,CA,United States
+18665,Garland,Tx,United States
+18659,Rochester,NY,United States
+19020,Wilmington,DELAWARE,United States
+19071,Grand prairie,Texas,United States
+19147,San Diego,CA,United States
+19075,Luxembourg,Luxembourg,United Kingdom
+19617,Paradise,Newfoundland,Canada
+20115,Magalang,Pampanga,Philippines
+20007,Chicago,IL,United States
+20659,Rockville,MD,United States
+21199,Pearl River,New York,United States
+21009,Glendale,Ca,United States
+21059,Albuquerque,NM,United States
+21477,Falls church,VA,United States
+21840,Long Beach,CA,United States
+22077,Fayetteville,Ga,United States
+22060,T;szeg,J-N-Sz,Hungary
+22421,West Malling,ME19,United Kingdom
+22527,Lakewood,New jersey,United States
+22615,Glasgow,United Kingdom,United Kingdom
+22625,Elmhurst,NY,United States
+22700,Fort Worth,TX,United States
+22800,Miami,Florida,United States
+22877,Vancouver,WA,United States
+22871,Walsall,West Midlands,United Kingdom
+20100,G?teborg,V?stra G?taland,Sweden
+20141,NYC,NY,United States
+20481,Sunnyvale,CA,United States
+20519,St Louis,MO,United States
+20757,Markham,ON,Canada
+24000,Calgary,Alberta,Canada
+25061,Mesa,AZ,United States
+25447,Woodbine,NSW,Australia
+25659,Los Angeles,CA,United States
+25871,Mill valley,Ca,United States
+26065,Tortola,VG,"Virgin Islands, British"
+26005,Lancaster,Ca,United States
+26100,Brooklyn,New York,United States
+26291,Louisville,Ky,United States
+26185,Anderson,SC,United States
+26500,Campos do  Jord;o,SP,Brazil
+26701,Fair Oaks,California,United States
+26610,Joburg,Gauteng,South Africa
+26900,Bend,OR,United States
+27187,Hong Kong,HK,Hong Kong
+27057,Vancouver,British Columbia,Canada
+27260,Winter Springs,FL,United States
+27029,Gilbert,AZ,United States
+27019,Somerville,MA,United States
+27570,Mountain View,CA,United States
+27559,La Verne,Ca,United States
+27520,Reservoir,VIC,Australia
+27729,MENIFEE,California,United States
+27725,Burlington,Nc,United States
+27929,St. Louis,MO,United States
+28147,Sacramento,CA,United States
+28107,GLENDALE,Arizona,United States
+28247,Edge Hill,QLD,Australia
+28245,Vitoria-Gasteiz,Alava,Spain
+28179,Toronto,ON,Canada
+28960,Madrid,Madrid,Spain
+29027,Houston,TX,United States
+29077,Los Angeles,California,United States
+29129,Greenfield,Ca,United States
+29251,Washington,DC,United States
+29250,Austin,TX,United States
+29400,Lancaster,California,United States
+29755,Calgary,Alberta,Canada
+29697,Leeds,West Yorks,United Kingdom
+29801,Ottawa,ON,United States
+40,Saint Peters,Missouri,United States
+409,Jacksonville,Florida,United States
+675,Wesley Chapel,FL,United States
+845,Canberra,ACT,Australia
+881,POMPANO BEACH,FL,United States
+875,Dallas,Texas,United States
+955,Seattle,Washington,United States
+1007,Taylorsville,UT,United States
+1021,Stafford,VA,United States
+1011,Fort Lauderdale,FL,United States
+1007,Western Springs,IL,United States
+1090,Bronx,NY,United States
+1057,Los Alamitos,CA,United States
+1149,Overland Park,KS,United States
+1190,Houston,TX,United States
+1165,Palatine,IL,United States
+1229,Lakeland,FL,United States
+1225,Houston,Texas,United States
+1269,Richmond Hill,Ontario,Canada
+1075,Smithfield,UT,United States
+1091,Greeneville,TN,United States
+2007,Galway,Galway,Ireland
+2079,Medan,North Sumatra,Indonesia
+2155,Frederikssund,Danmark,Denmark
+2175,Toronto,ON,Canada
+2005,New Delhi,Delhi,India
+2459,Philadelphia,PA,United States
+2610,Houston,TX,United States
+2900,Huntington Beach,CA,United States
+201,Vacaville,California,United States
+2719,Pontarddulais,Swansea,United Kingdom
+61,Phoenix,AZ,United States
+489,Crozet,VA,United States
+505,Christchurch,Canterbury,New Zealand
+591,Brush Prairie,WA,United States
+597,Niederkassel,NRW,Germany
+855,Montgomery Village,MD,United States
+869,Chicago,IL,United States
+4191,Federal Way,WA,United States
+4261,OLYMPIA,WA,United States
+4279,TORONTO,ONTARIO,Canada
+4020,DELAND,FL - Florida,United States
+4001,Pittsburgh,PA,United States
+4049,Elk Grove,CA,United States
+4571,Kailua Kona,HI,United States
+4829,Brampton,Ontario,United States
+4881,Edmonton,AB,United States
+4919,Kempton Park,Guateng,South Africa
+5055,Carbondale,CO,United States
+5100,Ottawa,ON,Canada
+5529,London,London,United Kingdom
+5870,Johor Bahru,Johor,Malaysia
+5965,West jordan ,Ut,United States
+6020,Pasadena,California,United States
+6260,Westover,WV,United States
+6009,Glastonbury,CT,United States
+6477,Camarillo,CA,United States
+6547,San Jose,CA,United States
+6601,Stuart,VA,United States
+6709,Bury,Lancashire,United Kingdom
+6867,North Yarmouth,Maine,United States
+6871,Perth,Western Australia,Australia
+6971,Bend,OR,United States
+7089,Barranquilla,Atlantico,Colombia
+7091,Toronto,Ontario,Canada
+7282,Sdyney,Nsw,Australia
+7298,Sandy,UT,United States
+7000,Houston,tx,United States
+7002,Melbourne,Fl,United States
+7056,Friendswood,TX,United States
+8119,Carlow,n/a,Ireland
+7897,Lincoln,Nebraska,United States
+7849,Milton Keynes,Buckinghamshire,United Kingdom
+8100,Cherry Hill,New Jersey,United States
+8257,Maumelle,Arkansas,United States
+8060,Southampton,Hampshire,United Kingdom
+8461,Kuwait city,Ku,Kuwait
+8471,Duluth,MN,United States
+7649,Tempe,AZ,United States
+8625,Mississauga,Ontario,United States
+8617,Toronto,Ontario,Canada
+8779,Lake Forest Park,WA,United States
+8827,Brooklyn,NY,United States
+8821,Olathe,KS,United States
+8890,Walnut Creek,CA,United States
+8951,Berlin,Berlin,Germany
+8971,Eden Prairie,MN,United States
+8969,Bristol,South Gloucestershire,United Kingdom
+9060,Bridgend,Bridgend,United Kingdom
+9007,Brooklyn,NY,United States
+9100,Riverside,CA,United States
+9180,Herning,DK,Denmark
+9217,Santa barbara,CA,United States
+9290,Edmonton,AB,Canada
+9005,North Wales,PA,United States
+9405,Craigieburn,VIC,Australia
+9529,Neptune Beach,FL,United States
+9605,Coral Springs,FL,United States
+9647,Castlegar,BC,Canada
+9655,Glenview,IL,United States
+9719,Hanover,Maryland,United States
+9775,Phoenix,AZ,United States
+9800,New York,NY,United States
+7647,Stockton,Ca,United States
+9957,Edmonton,AB,United States
+9995,Christchurch,Canterbury,New Zealand
+40105,Pittsburgh,Pennsylvania,United States
+40109,Den Haag,ZH,Netherlands
+40269,Atlanta,Georgia,United States
+40029,London,London,United Kingdom
+40049,Birmingham,AL,United States
+40097,Lourdes-de-blanc-sablon,Quebec,Canada
+40449,Munchen,Bayern,Germany
+40459,Schaumburg,Illinois,United States
+40501,Padova,PD,Italy
+40519,Temecula,CA,United States
+40541,Windsor,ON,Canada
+40619,Brooklyn,New York,United States
+40611,Vancouver,British Columbia,Canada
+40657,Oakton,VA,United States
+40651,Little Rock,Arkansas,United States
+40697,Great Falls,VA,United States
+40717,-,-,Hong Kong
+40711,NAMPA,ID,United States
+40687,Biringham,West Midlands,United Kingdom
+40749,Winchester,Hampshire,United Kingdom
+40729,The Woodlands,TX,United States
+40727,Palmyra,VA,United States
+40947,ASHBURN,VA,United States
+40989,Kamen,Nordrhein-Westfalen,Germany
+40975,New York,New York,United States
+41070,Napa,CA,United States
+41071,Cincinnati,Oh,United States
+41050,Bronx,NY,United States
+41101,Dubai,Dubai,United Arab Emirates
+41161,Sanford,NC,United States
+41191,Walla Walla,Wa,United States
+41197,Houston,TX,United States
+41171,London,London,United Kingdom
+41257,Newbury,Berkshire,United Kingdom
+41205,London,London,United Kingdom
+41067,Rutledge,GA,United States
+41597,South Jordan,Utah,United States
+41801,Poway,CA,United States
+41797,Washington,DC,United States
+41709,Carmel,CA,United States
+41907,BELLEVUE,Washington,United States
+41871,Brooklyn,NY,United States
+41965,Clane,Kildare,Ireland
+41961,London,London,United Kingdom
+41959,Warkworth,Auckland,New Zealand
+41905,NARRABUNDAH,ACT,Australia
+41920,Beaver,PA,United States
+42017,Jersey City,NJ,United States
+42109,Fountain Valley,Ca,United States
+42099,Darwin,NT,Australia
+42050,Chicago,Illinois,United States
+42010,Larbert,Falkirk,United Kingdom
+42209,Montgomery,AL,United States
+42459,Covington,LA,United States
+42550,Pine Brook,NJ,United States
+42661,Baton Rouge,Louisiana,United States
+42699,Brighton,East Sussex,United Kingdom
+42715,San Diego,California,United States
+42691,Garland,Texas,United States
+42775,Hollywood,FL,United States
+42789,Gainesville,GA,United States
+42785,Bloomington,MN,United States
+42770,Littleton,CO,United States
+42801,Eagle,Id,United States
+42900,Charlotte,NC,United States
+42891,Norwalk,CT,United States
+42959,Irving,Texas,United States
+42945,Centerport,ny,United States
+40045,Mississauga,Ontario,Canada
+40007,West Orange,NJ,United States
+42979,Vernon Hills,IL,United States
+40070,Albany,New York,United States
+40059,Columbus,Oh,United States
+40100,Los Angeles,CA,United States
+40117,Nashville,Tennessee,United States
+40109,Washington,DC,United States
+40185,Seattle,Wa,United States
+40155,Hoffman Estates,IL,United States
+40225,San Francisco,CA,United States
+40205,Burlington,Ontario,Canada
+40220,Oak Park,CA,United States
+40217,Portland,OR,United States
+42700,Mukilteo,WA,United States
+40245,Surrey,British Columbia,Canada
+40260,Madison,WI,United States
+40080,Washington,DC,United States
+40070,SINGAPORE,SINGAPORE,Singapore
+40065,San Diego,Ca,United States
+40077,San Antonio,Texas,United States
+40071,Golden,CO,United States
+40419,The Ponds,NSW,Australia
+40467,Brisbane,Queensland,Australia
+40465,Jacksonville Beach,FL,United States
+40501,Los Angeles,CA,United States
+40789,New Milford,Ct,United States
+40945,Lafia,nasarawa,Nigeria
+44001,Bangalore,Karnataka,India
+44791,Houston,Tx,United States
+44857,Markt Schwaben,Bavaria,Germany
+44900,Chula vista,Ca,United States
+44957,Bell Canyon,CA,United States
+44997,Santa monica,CA,United States
+46001,Orlando,Florida,United States
+45950,Greenville,Sc,United States
+46011,Pleasant Gap,PA,United States
+46120,Billings,Montana,United States
+46117,Dover Foxcroft,ME,United States
+46841,Blackburn,Lancs,United Kingdom
+47045,Brooklyn,Gauteng,South Africa
+47087,New York,NY,United States
+47075,Sherwood park,alberta,Canada
+47420,Izhevsk,Udmurtia,Russian Federation
+47550,Hiram,GA,United States
+47825,Olympia,WA,United States
+48205,Honolulu,HI,United States
+48001,Frisco,Texas,United States
+48627,Atlanta,GA,United States
+48769,Arlington,Virginia,United States
+49145,Pincher Creek,Alberta,Canada
+49959,Lawrence,ks,United States
+50009,Midland,Michigan,United States
+50481,Leeds,West Yorkshire,United Kingdom
+50847,New York,NY,United States
+51011,Mountain View,Ca,United States
+51209,Santa Rosa,CA,United States
+51081,Omaha,NE,United States
+51065,S;o paulo,SP,Brazil
+51447,LAVAL,Quebec,Canada
+51409,New Port Richey,FL,United States
+51465,Cherry Hill,NJ,United States
+51505,San Diego,California,United States
+51707,Hyde Park,NY,United States
+51795,Queens,New York,United States
+51970,Laie,Hawaii,United States
+52010,San Francisco,Ca,United States
+52015,Pensacola,FL,United States
+52229,"Ottery St Mary, Devon",NA,United Kingdom
+52049,Los Angeles,CALIFORNIA,United States
+52515,Matthews,NC,United States
+50997,Jessup,MD,United States
+55250,Largo,MD,United States
+55807,Glenview,Illinois,United States
+56087,Baltimore,MD,United States
+56120,Bakersfield,California,United States
+56405,Tampa,FL,United States
+56657,Parramatta,New South Wales,Australia
+56799,Berwyn,IL,United States
+56775,Marina Del Rey,CA,United States
+57611,Hilton Head Island,SC,United States
+58507,Santa Barbara,CA,United States
+59061,Ikeja,LAGOS,Nigeria
+59121,PARIS,facultatif,France
+59759,Boca Raton,FL,United States
+60007,Chatsworth,California,United States
+60090,OTTAWA,Ontario,Canada
+60480,Gilbert,Arizona,United States
+60580,Matlock,Derbyshire,United Kingdom
+60789,Long Island City,NY,United States
+60745,Denver,CO,United States
+61157,SOUTH PASADENA,CA,United States
+61110,Atlanta,GA,United States
+61210,Los Angeles,CA,United States
+61247,San Andr;s cholula,Puebla,Mexico
+62187,Buena Park,CA,United States
+62411,Mandaluyong City,NCR,Philippines
+62409,Abu Dhabi,Abu Dhabi,United Arab Emirates
+62069,APO,AE,United States
+62007,Orlando,FL,United States
+62929,Singapore,Singapore,Singapore
+60587,Lusaka,Lusaka,Zambia
+60641,Dudley,Massachusetts,United States
+64165,Toronto,Ontario,Canada
+64779,Clayton,Missouri,United States
+64849,Lehigh Acres,FL,United States
+64869,Vienna,VA,United States
+64997,Manhattan,KS,United States
+65100,St. Paul,Minnesota,United States
+65007,Bloomfield,CT,United States
+65049,Vancouver,BC,Canada
+65679,Matsumoto,nagano,Japan
+65709,Mount Vernon,WA,United States
+66709,Moon Twp.,PA,United States
+66719,Maspeth,NY,United States
+66897,Mill Valley,CA,United States
+67175,MANSFIELD,MA,United States
+67271,Blacksburg,VA,United States
+67019,Bellingham,WA,United States
+68095,Prescott,AZ,United States
+68141,Whiitier,CA,United States
+68495,Washington,District of Columbia,United States
+69917,Portland,Oregon,United States
+70521,Hicksville,New York,United States
+70559,Toronto,ON,Canada
+70720,Johannesburg,Gauteng,South Africa
+70809,Miami,Florida,United States
+71001,Pensacola,FL,United States
+71465,Gilbert,AZ,United States
+71515,Austin,TX,United States
+71960,Las Vegas,Nevada,United States
+71909,Las vegas,Nevada,United States
+70217,Newtown,Pennsylvania,United States
+70777,Avondale,Pennsylvania,United States
+74250,Calgary,Alberta,Canada
+74241,Loveland,CO,United States
+74467,Chicago,Illinois,United States
+74407,Murphy,TX,United States
+74607,Thornton,CO,United States
+74907,Highlands Ranch,CO,United States
+75749,Castle Hill,NSW,Australia
+76881,New York,New York,United States
+77007,Delaware,OH,United States
+77089,Spring,Texas,United States
+78697,Regina,Saskatchewan,Canada
+78825,Salem,OR - Oregon,United States
+79671,Port-Louis,Mauritius,Mauritius
+80205,Miami,Fl,United States
+80250,Rowlett,Tx,United States
+80045,New York,NY,United States
+80450,Bradenton,FL,United States
+80819,St. John's,NL,Canada
+80811,Alella,catalunya,Spain
+81019,Allentown,PA,United States
+81101,Boston,ma,United States
+81055,Molina de segura,murcia,Spain
+81541,Atlanta,GA,United States
+81899,Richmond,VA,United States
+81929,Nashville,TN,United States
+82010,Madrid,Spain,Spain
+82207,Flower Mound,Texas,United States
+82199,Forest Lake,MN,United States
+82620,Medicine Hat,AB,Canada
+82785,Cincinnati,OH,United States
+82995,Colville,WA,United States
+80117,Strongville,OH,United States
+80067,Barquisimeto,Lara,Venezuela
+80001,Charlotte,nc,United States
+80987,Cary,NC,United States
+84145,Singapore,Singapore,Singapore
+84607,AVELEY,Western Australia,Australia
+85181,Vancouver,BC,Canada
+85509,Sandy,UT,United States
+85707,Colorado Springs,Co,United States
+85790,New Orleans,LA,United States
+85890,Smyrna,GA,United States
+86010,Victoria,BC,Canada
+86005,West Liberty,Ohio,United States
+86900,Roseville,CA,United States
+86945,San Francisco,CA,United States
+87467,Moscow,ID,United States
+87581,Seattle,WA,United States
+88540,Mebane,NC,United States
+88587,Madison,Alabama,United States
+88875,Willis,Texas,United States
+89195,Homestead,Miami-Dade,United States
+89465,San Francisco,CA,United States
+89969,Sugar Land,Texas,United States
+90510,JERSEY CITY,New Jersey,United States
+90507,Milpitas,ca,United States
+90697,Billericay,Essex,United Kingdom
+90909,San Fernando,Buenos Aires,Argentina
+91477,Weymouth,Dorset,United Kingdom
+91705,Wheeling,IL,United States
+91779,Windsor,Ontario,Canada
+92071,Newcastle,ON,Canada
+92020,Yola,Adamawa,Nigeria
+92905,Secaucus,NJ,United States
+90065,New Orleans,LA,United States
+90241,Trumansburg,Ny,United States
+90627,Houston,Texas,United States
+90685,Palm desert,Ca,United States
+90825,Powell river,British Columbia,Canada
+94499,Upatoi,GA,United States
+94709,Melbourne,VIC,Australia
+95057,Ota,Ogun State,Nigeria
+95027,Levittown,NY,United States
+95461,Oshawa,ON,Canada
+95605,Gillette,WY,United States
+95707,Vermilion,Ab,Canada
+95821,Centennial,Wyoming,United States
+96167,Alexandria,VA,United States
+96049,Sydney,New South Wales,Australia
+97089,Marseille,Marseille,France
+97691,San Francisco,CA,United States
+97741,Jersey City,New Jersey,United States
+98410,Royalla,NSW,Australia
+99640,Klamath Falls,Oregon,United States
+99899,Healsville,Victoria,Australia
+279,Jersey City,NJ,United States
+1001,San Francisco,California,United States
+1585,Mississauga,ON,Canada
+1709,Calgary,Alberta,United States
+1871,Shoreview,MN,United States
+2195,Petaluma,California,United States
+2175,Las Vegas,NV,United States
+2579,Canmore,AB,Canada
+2671,Brooklyn,NY,United States
+2720,Cremorne,NSW,Australia
+2817,Los Angeles,CA,United States
+481,Skara,Vastra Gotaland,Sweden
+4170,Washington,DC,United States
+5105,Seattle,WA,United States
+5209,Griffith,Australian Capital Territory,Australia
+5277,Chapel Hill,NC,United States
+5251,Seattle,WA,United States
+5790,Sydney,NSW,Australia
+6000,Fremont,Oh,United States
+6400,Calgary,Allberta,Canada
+7051,ST. HELENS,Merseyside,United Kingdom
+8020,Columbus,oh,United States
+9807,Naples,FL,United States
+10120,Marietta,GA,United States
+10227,Lagos,Lagos,Nigeria
+10547,Somerville,Massachusetts,United States
+11100,Homestead,Fl,United States
+11945,Sunrise,FL,United States
+12060,Bettendorf,Iowa [IA],United States
+12450,Hilo,HI,United States
+12525,Madison,WI,United States
+12800,Toronto,Ontario,Canada
+10001,Austin,Texas,United States
+10070,Singapore,Singapore,Singapore
+10199,Milpitas,CA,United States
+10217,Calgary,Alberta,Canada
+10410,Parkland,fl,United States
+10467,Leesburg,VA,United States
+10541,South Ozone Park,NY,United States
+10551,Marlboro,NJ,United States
+14221,Mumbai,Maharashtra,India
+14420,Fayetteville,AR,United States
+14750,Burnsville,MN,United States
+15167,Markham,Ontario,Canada
+15999,Moville,Iowa,United States
+16219,Modesto,CA,United States
+16794,Holland Park East,Queensland,Australia
+17175,Nottingham,UK,United Kingdom
+18127,Drogheda,Louth,Ireland
+18017,Pineville,North Carolina,United States
+18481,South Riding,VA,United States
+18550,Opelika,AL,United States
+20947,Lincolnwood,IL,United States
+20997,Santa Monica,California,United States
+21100,Fremont,CA,United States
+21097,Berlin,Berlin,Germany
+21861,Buckhannon,Wv,United States
+22861,San Francisco,CA,United States
+20117,New York,New York,United States
+24007,Blakeview,Sa,Australia
+24085,Arlington,tx,United States
+24959,Ikorodu,Lagos,Nigeria
+25697,Dorchester,Massachusetts,United States
+26120,Knightdale,NORTH CAROLINA,United States
+26247,Chicago,IL,United States
+26701,Komoka,Ontario,United States
+26821,Jamestown,NY,United States
+27107,WINTER GARDEN,Florida,United States
+27091,Bangalore,Karnataka,India
+27691,Houston,Texas,United States
+27870,San Antonio,TX,United States
+27859,Aiken,SC,United States
+28905,Pachora,Maharashtra,India
+29721,Kensington,CA,United States
+1090,Kaneohe,Hawaii,United States
+1011,Banff,Alberta,Canada
+1071,LAWRENCEVILLE,GA,United States
+1401,Astoria,NY,United States
+1487,Austin,Texas,United States
+1480,Boynton Beach,FL,United States
+1400,Cumberland,RI,United States
+29675,Beltsville,MD,United States
+29715,Bismarck,ND,United States
+29790,Livingston,MT,United States
+29895,Singapore,Singapore,Singapore
+1415,Saint Charles,Illinois,United States
+1600,Atlanta,GEORGIA,United States
+1607,Surrey,British Columbia,Canada
+1661,Denton,Greater Manchester,United Kingdom
+1817,Auckland,Auckland,New Zealand
+27,SCOTTSDALE,AZ,United States
+2825,Ferrara,FE,Italy
+87,New York,NY,United States
+59,Baton Rouge,LA,United States
+2517,Willowbrook,Illinois,United States
+719,Bismarck,ND,United States
+807,West Bend,Wi,United States
+959,North Charleston,South Carolina,United States
+907,Glasgow,Glasgow City,United Kingdom
+4050,Riverside,CA,United States
+4009,San Francisco,CA,United States
+4007,LEVALLOIS PERRET,Hauts de Seine,France
+4480,Singapore,Singapore,Singapore
+4580,Buenos Aires,Buenos Aires,Argentina
+5001,Lisle,IL,United States
+1757,SAN YSIDRO,CA,United States
+5000,Los Gatos,CA,United States
+5655,Las Vegas,NV,United States
+6759,Redwood City,CA,United States
+6707,Antioch,Tennessee,United States
+6717,Las Cruces,NM,United States
+7197,American Fork,UT,United States
+7255,South Jordan,UT,United States
+7089,Miami,FL,United States
+7929,Los Angeles,CA,United States
+8409,Jacksonville,Florida,United States
+8219,Portland,Oregon,United States
+8685,Granite City,IL,United States
+8925,Framingham,MA,United States
+9115,Springfield,Virginia,United States
+8277,Brantford,ON - Ontario,Canada
+8009,Bromley,Kent,United Kingdom
+40025,Cincinnati,OH,United States
+40777,Bangalore,karnataka,India
+41100,Covington,WA,United States
+41507,Scarborough,Ontario,United States
+41711,Havant,Hampshire,United Kingdom
+41777,Plano,Texas,United States
+41827,Laval,Qu;bec,Canada
+42065,Nashville,Tennessee,United States
+42401,Phoenix,AZ,United States
+42525,Rochester,MN,United States
+9259,Gaithersburg,Maryland,United States
+42980,Arvada,CO,United States
+40160,Arlington,VA,United States
+40210,Hawthorn,Victoria,Australia
+40559,Bettendorf,Iowa,United States
+40959,Sherman Oaks,CA,United States
+44091,Clacton on Sea,Essex,United Kingdom
+44481,Boynton Beach,Florida,United States
+44525,Spring Grove,Illinois,United States
+44747,White City,SK,Canada
+45760,Elk Grove,CA,United States
+46040,Paramus,NJ,United States
+46205,Singapore,-,Singapore
+46049,Pickering,ON,Canada
+46415,MWANZA,Tanzania,Tanzania
+46557,Glendale,CA,United States
+47105,Cerritos,CA,United States
+47405,Coconut creek,Florida,United States
+47547,Toronto,Ontario,Canada
+48700,Roanoke Rapids,North Carolina,United States
+48870,Basingstoke,Hampshire,United Kingdom
+50170,Valley Stream,NY,United States
+50060,Hoffman Estates,IL - Illinois,United States
+50580,Sydney,NSW,Australia
+50577,Auckland,Rodney,New Zealand
+51057,MEDFORD,Oregon,United States
+51090,Mesquite,TX,United States
+51181,Beverly Hills,New South Wales,Australia
+51007,Seewis Dorf,GR,Switzerland
+51049,LILLE,Nord,France
+51865,Covington,LA,United States
+52047,Dinxperlo,Gelderland,Netherlands
+52185,Voreppe,Isere,France
+52215,Denver,CO,United States
+52625,Lehi,Utah,United States
+52741,MISSOULA,MT,United States
+52925,Union City,New Jersey,United States
+52910,Sunnyvale,CA,United States
+50075,Calgary,AB,United States
+50209,Berlin,Berlin,Germany
+50219,Johannesburg,Gautang,South Africa
+50075,Cunit,Tarragona,Spain
+50000,Johannesburg,Gauteng,South Africa
+50055,Brooklyn,NY,United States
+50405,Peterborough,cambridgeshire,United Kingdom
+50479,Fayetteville,North Carolina,United States
+50669,ABERDEEN,Scotland,United Kingdom
+50605,Columbia,sc,United States
+50721,Nashville,TN,United States
+50801,Meridian,ID,United States
+50789,Racine,WI,United States
+50901,Carlingford Court,NSW,Australia
+50890,East Hampton,NY,United States
+50951,Los Angeles,California,United States
+54025,Kemptville,Ontario,Canada
+54080,REDLANDS,CA - California,United States
+54067,Memphis,TN,United States
+54099,Norwalk,Connecticut,United States
+54100,Montgomery,AL,United States
+54217,Mount laurel,Nj,United States
+54259,Edmonton,Alberta,Canada
+54270,Edmonton,Alberta,Canada
+54285,Berkeley,CA,United States
+54421,Dallas,Tx,United States
+54505,New York,NEW YORK,United States
+54657,Columbus,Ohio,United States
+54691,Dundas Valley,NSW,Australia
+54717,Philadelphia,PA,United States
+54770,Maple,ON,Canada
+54769,Los Angeles,CA,United States
+54821,Ontario,ca,United States
+54817,Ljubljana,Slovenia,United Kingdom
+55200,Cabramatta,NSW,Australia
+55801,Kungsbacka,Halland,Sweden
+56507,London,London,United Kingdom
+56607,CIUDAD DE MEXICO,CIUDAD DE MEXICO,United States
+57045,Aguascalientes,Aguascalientes,Mexico
+57195,Bronx,NY,United States
+57400,Abuja,F.C.T.,Nigeria
+57490,Laie,HI,United States
+57625,Larkspur,California,United States
+57719,Kitchener,ON,Canada
+57907,Gloucester,VA,United States
+58609,Monterey,Tennessee,United States
+59065,Dubai,Dubai,United Arab Emirates
+59491,Petaling Jaya,Selangor,Malaysia
+59545,Durba,Kwazulunatal,South Africa
+59520,Orange,CA,United States
+59590,Melbourne,Victoria,Australia
+59641,Paris,Paris,France
+59720,LEUSDEN,Nederland,Netherlands
+60040,Edmond,OK,United States
+60117,Fort Collins,CO,United States
+60179,Singapore,Singapore,Singapore
+60725,Los Angeles,CA,United States
+61569,Shakopee,MN,United States
+61641,Brooklyn,NY,United States
+61701,Roanoke,va,United States
+62015,Salem,UT,United States
+59210,Northridge,CA,United States
+62550,Redondo Beach,CA,United States
+60400,New City,NY,United States
+60719,Isleworth,Middlesex,United Kingdom
+60821,Bath,England,United Kingdom
+60909,Lemont,Illinois,United States
+64220,Glen Waverley,Victoria,Australia
+64041,Philadelphia,Pennsylvania,United States
+64529,Meridian,ID,United States
+64587,Rochester,New York,United States
+64745,Littleton,CO,United States
+65189,Prescott,AZ,United States
+65251,Columbus,OH,United States
+65021,Littleton,CO,United States
+65767,Boulder,CO,United States
+66165,North Coburg,VIC,Australia
+66251,Philipsburg,St maarten,Netherlands Antilles
+66029,DIEGO MARTIN,MIA,Trinidad and Tobago
+66601,Grove City,Ohio,United States
+66161,Kelkheim,Hessen,Germany
+66919,Houston,Texas,United States
+67005,Chislehurst,Greater London,United Kingdom
+67425,Nanaimo,BC,United States
+68229,Chicago,IL,United States
+68261,Boston,MA,United States
+68401,North Vancouver,BC,Canada
+68400,DESTREHAN,Louisiana,United States
+68579,Taree,New South Wales,Australia
+68659,Carrollton,ga,United States
+68689,Virginia Beach,Virginia,United States
+68779,Lawrence,ny,United States
+69941,Maumee,OH,United States
+70161,Seattle,Wa,United States
+71801,Downey,CA,United States
+68887,San Diego,CA,United States
+72027,Singapore,Singapore,Singapore
+70027,Hammanskraal,Gauteng,South Africa
+70011,Riga,Riga,Latvia
+70460,Spanish Fort,Alabama,United States
+70461,Hillsboro,OR,United States
+70559,Indianapolis,IN,United States
+70869,Excelsior,MN,United States
+70941,Miami,FL,United States
+74095,Northridge,CA,United States
+74471,NEW YORK,NY,United States
+74517,Santa Cruz,California,United States
+74600,Tucson,AZ,United States
+74655,New York,NY,United States
+74745,Rio de Janeiro,RJ,Brazil
+74707,DOUALA,DOUALA,Cameroon
+74860,Chattaroy,WA,United States
+74891,Darwin,NT,Australia
+74987,Hastings,NE,United States
+75125,Singapore,Select State,Australia
+75850,Bangalore,Karnataka,India
+75879,Naestved,Denmark,Denmark
+76441,M;nchen,Bavaria,Germany
+77089,Tinley Park,IL,United States
+77045,San Diego,California,United States
+77461,Garbsen,Niedersachsen,Germany
+77850,Alexandria,VA,United States
+78067,Coral Gables,Fl,United States
+78169,Guttenberg,NJ,United States
+78555,Phoenix,Az,United States
+78700,Mississauga,Ontario,Canada
+79181,Seattle,WA,United States
+79045,San Diego,California,United States
+79459,Auckland,Auckland,New Zealand
+79585,Prince George,British Columbia,Canada
+80081,Brampton,Ontario,Canada
+80595,Arlington,MA,United States
+80710,Lakewood,CA,United States
+80815,Muang Nakhon Ratchasima,Nakhon Ratchasima,Thailand
+81005,ELMHURST,NY,United States
+81491,"ALBION, VICTORIA",Victoria,Australia
+81640,Jonesboro,GA,United Kingdom
+81779,Hsinchu City,Taiwan,Taiwan
+81771,Rosemead,CA,United States
+81961,Bristol,England,United Kingdom
+82695,Barcelona,Catalonia,Spain
+82865,Coopersville,MI,United States
+80220,Edmond,Oklahoma,United States
+80201,Guadalajara,Jalisco,Mexico
+80769,Milton,ON,Canada
+80789,Idaho Falls,ID,United States
+84290,Baton Rouge,LA,United States
+84571,Perth,On,Canada
+84775,Crawley,West Sussex,United Kingdom
+85251,Alliston,Ontario,Canada
+84409,Asheville,NC,United States
+85061,Thetford Center,Vermont,United States
+85669,Boulder,CO,United States
+86099,Weaverville,NORTH CAROLINA,United States
+86561,Dublin,Dublin,Ireland
+86785,Houston,TX,United States
+87047,Hammond Park,Western Australia,Australia
+87241,Alta Loma,California,United States
+87501,Kailua-Kona,HI,United States
+87610,Mountain View,CA,United States
+87559,Toronto,ON,Canada
+87875,Austin,Texas,United States
+87811,MAynooth,no,Ireland
+87829,Fort Meade,MD,United States
+88601,Costessey,Norwich,United Kingdom
+89271,Glendale,Ca,United States
+89055,Berlin,Deutschland,Germany
+89797,Coquitlam,BC,Canada
+90281,Los Angeles,Ca,United States
+90449,Calgary,Alberta,Canada
+90519,Courtland,Mississippi,United States
+90577,Slobozia,Ialomita,Romania
+91611,Lagos,Lagos,Nigeria
+92277,Butterworth,PULAU PINANG,Malaysia
+92641,Toronto,ON,United States
+92729,New York,NY,United States
+92899,San Francisco,California,United States
+90007,San Francisco,CA,United States
+90079,Jasper,Alberta,Canada
+90207,North East,PA,United States
+90405,Westminster,CA,United States
+90541,Scottsdale,AZ,United States
+90827,Lombard,IL,United States
+90957,Dubai,D,United Arab Emirates
+94057,Gold Coast,Ql,Australia
+94505,Staten Island,NY,United States
+94609,Minneapolis,MN,United States
+94759,Bellingham,WA,United States
+95005,Akita,Akita,Japan
+95149,Williamsburg,VA,United States
+95217,Weatherford,TX,United States
+95957,Deptford,Nj,United States
+96009,Gisborne,North Island,New Zealand
+96425,Alexandria,Virginia,United States
+96887,Hong Kong,Hong Kong,Hong Kong
+96880,Harristown,Ql,Australia
+97009,Oslo,Oslo,Norway
+97051,Peoria,AZ,United States
+97569,Boulder,Colorado,United States
+97559,Elk Grove,CA,United States
+97509,Raymore,MO,United States
+97619,Kissimmee,Florida,United States
+97750,Bradley Stoke,Bristol,United Kingdom
+97909,Berkeley,CA,United States
+98187,Sunnyvale,CA,United States
+98260,Olathe,KS,United States
+98047,Atlanta,GA,United States
+98457,Warwick,RI,United States
+98885,Furlong,PA,United States
+99147,Austin,Texas,United States
+99000,Toowoomba East,QLD,Australia
+99065,Rome,NY,United States
+99570,Saratoga,CA,United States
+99779,Secunderabad,Telangana,India
+99800,Lakewood,California,United States
+99811,Pafos,Non-US/Canada,Cyprus
+99841,Roma,italy,Italy
+400,Sumika-ku,Tokyo,Japan
+777,Sayville,NY,United States
+1041,Walnut,California,United States
+1081,Des Moines,IA,United States
+1160,Amritsar,Punjab,United States
+1700,Petersfield,West Sussex,United Kingdom
+2001,Coquitlam,British Columbia,Canada
+2267,Austin,Texas,United States
+2045,Mississauga,ON,Canada
+2575,Lansdale,PA,United States
+2555,Auckland,Auckland,New Zealand
+2551,Cork,Munster,Ireland
+411,Feilding,manawatu,New Zealand
+809,Mackay,Queensland,Australia
+917,Stockbridge,MI,United States
+4125,Meadow Springs,WA,Australia
+4445,Novato,ca,United States
+4547,Brampton,Ontario,Canada
+5057,Uetze,Niedersachsen,Germany
+5050,Guadalajara,Jalisco,Mexico
+5615,Anaheim,CALIFORNIA,United States
+5655,Hollywood,Florida,United States
+5829,Obuasi,Ashanti Region,Ghana
+6087,New York,NY,United States
+6725,Joplin,MO,United States
+100,Lakewood,WA,United States
+7881,Falls Church,Virginia,United States
+8140,Gurgaon,Haryana,India
+8210,Toronto,Ontario,Canada
+8607,Fullerton,CA,United States
+8627,Guernsey,Channel Islands,Guernsey
+9595,Hamilton,Ontario,Canada
+9729,Blaine,WA,United States
+9850,San Francisco,Ca,United States
+9957,Lamar,Pennsylvania,United States
+10100,Scarsdale,NY,United States
+10407,Glendale,California,United States
+12010,Dayton,OH,United States
+12050,Birmingham,Alabama,United States
+12619,Greenfield Park,QC,Canada
+12727,Miami,FL,United States
+10101,Dubai,Dubai,United Arab Emirates
+10901,Kenosha,Wisconsin,United States
+14551,Miami,Florida,United States
+14641,Rio de Janeiro,RJ,Brazil
+14679,Brooklyn,New York,United States
+15280,Brooklyn,New York,United States
+15791,Calgary,AB,Canada
+16071,Ikorodu,Lagos,United States
+16545,Washington DC,DC - District of Columbia,United States
+17209,Brooklyn,New York,United States
+17279,Salem,Massachusetts,United States
+17440,Sceaux,Other,France
+17689,St Paul,MN,United States
+17795,Overland Park,KS,United States
+18109,West Lafayette,IN,United States
+18405,Jenks,Ok,United States
+18459,Chicago,Illinois,United States
+18505,NY,NY,United States
+18509,Weymouth,ma,United States
+18540,CHURCHLANDS,WA,Australia
+18665,Sarasota,Fl,United States
+18589,Fresno,CA,United States
+18910,Minneapolis,Mn,United States
+19747,New York City,New York,United States
+20100,Valdosta,Georgia,United States
+20601,Chicago,IL,United States
+20727,Singapore,Singapore,Singapore
+20881,Zamboanga city,canada,Philippines
+21515,Spring House,PA,United States
+21810,Fullerton,Ca,United States
+21961,Haw River,NC,United States
+22099,St. charles,Missouri,United States
+22491,Houston,Texas,United States
+20069,College Station,TX,United States
+20649,Cranberry Twp,PA,United States
+20747,Milwaukee,WI,United States
+24700,Saint Davids,PA,United States
+25200,Littleton,CO,United States
+25269,Coppell,Texas,United States
+25045,Niedernhausen,Deutschland,United States
+25587,Lauderdale Lakes,FL,United States
+25769,Wall,New Jersey,United States
+26450,Imperial,CA,United States
+26797,Brooklyn,NY,United States
+27241,Abu Dhabi,Abu Dhabi,United Arab Emirates
+28287,Pembroke,Massachusetts,United States
+28619,Thessaloniki,Thessaloniki,Greece
+28577,Oakville,ON,Canada
+28550,Hatboro,PA,United States
+28720,Tangerang,Banten,Indonesia
+28719,Bartlett,IL,United States
+28790,Zurich,Zurich,Switzerland
+28929,San Diego,CA,United States
+29465,Oakland,CA,United States
+29669,Brampton,ON,Canada
+175,Charlotte,NC,United States
+289,Aurora,Colorado,United States
+1,San Francisco,CA,United States
+70,Toronto,ON,Canada
+409,Leeds,UK,United Kingdom
+495,La Verne,California,United States
+600,Winnipeg,manitoba,United States
+670,Milwaukee,Wisconsin,United States
+980,Brooklyn,New York,United States
+1000,Sauk Centre,Minnesota,United States
+1215,Frankenmuth,Michigan,United States
+1621,Santa Ana,CA,United States
+2059,Whistler,British Columbia,Canada
+2299,Chengdu,Si Chuan,China
+2191,Mayfield,Ns,Australia
+2181,Naperville,IL,United States
+487,Ukiah,CA,United States
+565,South Jordan,UT,United States
+4155,Glendale,AZ,United States
+4405,Shoreline,WA,United States
+4695,Mishref,Kuwait,Kuwait
+5180,Glendale,CA,United States
+5101,Honolulu,HI,United States
+5427,Huntington,NY,United States
+5505,San Mateo,CA,United States
+5629,Newport Beach,CA,United States
+5607,Teaneck,New Jersey,United States
+5885,Grande Prairie,Alberta,United States
+5925,Nassau Bay,TXX,United States
+6287,Walnut Creek,CA,United States
+6779,Watsonville,ca,United States
+6807,Tampere,Pirkanmaa,Finland
+7985,Managua,Managua,Nicaragua
+8581,San Jose,CA,United States
+8949,Medellin,Antioquia,Colombia
+9127,ATLANTA,GA,United States
+9109,Sheffield,South Yorkshire,United Kingdom
+9229,Tiny,Ontario,Canada
+9490,Mount Pearl,Newfoundland And Labrador,Canada
+9555,Morrow,GA,United States
+9705,Johnson City,TN,United States
+40491,Lane Cove,NSW,Australia
+40590,KILGORE TX,TX,United States
+41700,Spring Valley,New York,United States
+42009,Augusta,GA,United States
+42547,San Antonio,Tx,United States
+42665,El Segundo,CA,United States
+42617,Houston,TX,United States
+42910,Grande Prairie,Alberta,Canada
+42855,Lahore,Punjab,Pakistan
+40121,Westminster,Colorado,United States
+40085,Moffett Field,CA,United States
+40211,TORRANCE,CA,United States
+40295,Toronto,Ontario,Canada
+40709,Bayadha,eloued,Algeria
+40801,MAWSON LAKES,SA,Australia
+40809,North Ogden,ut,United States
+44410,Raleigh,NC,United States
+44445,Crossfield,Alberta,Canada
+40711,Torrance,CA,United States
+44841,Los angeles,CA,United States
+44945,Abu Dhabi,Abu Dhabi,United Arab Emirates
+45089,Elloughton,East Yorkshire,United Kingdom
+45567,Chicago,IL,United States
+46120,Kansas City,MO,United States
+46159,N;stved,None,Denmark
+46201,Heitersheim,BW,Germany
+46795,Fairfield,CT,United States
+46899,Cardiff,CA,United States
+47181,Liege,Liege,Belgium
+47150,Bondi,NSW,Austria
+47470,Milton,ON,Canada
+47445,Kuala Lumpur,WP,Malaysia
+47509,Bologna,BO,Italy
+47501,Calgary,AB,Canada
+47611,Brownsville,Texas,United States
+47607,Sarajevo,federation bosnia,Bosnia and Herzegovina
+47809,Tyler,TX,United States
+48027,Redmond,WA,United States
+48481,Vilnius,Vilnius,Lithuania
+48717,Woden,ACT,Australia
+48909,New York,NY,United States
+49100,Columbia,SC,United States
+49265,Manchester,ct,United States
+49257,Pittsburgh,PA,United States
+49605,Red Bank,NJ,United States
+50095,Saint Louis,MO,United States
+50699,Castelldefels Barcelona,Barcelona,United Kingdom
+48077,Chicago,IL,United States
+51700,Leeds,Select:,United Kingdom
+50065,Pasig,Manila,Philippines
+50815,Kota Kinabalu,Sabah,Malaysia
+50917,Louisville,KY,United States
+54107,BAton Rouge,LOUISIANA,United States
+54015,Houston,Texas,United States
+54701,Moscow,Moscow,Russian Federation
+55417,Round Rock,TX,United States
+55670,Burgess Hill,West Sussex,United Kingdom
+55690,Weston,FL,United States
+56619,Northampton,Northants,United Kingdom
+56967,San Luis Potosi,San Luis Potosi,Mexico
+57007,San Francisco,CA,United States
+56990,Honolulu,HI,United States
+57001,Vicente lopez,Buenos aires,Argentina
+57191,New York,NY,United States
+57250,Canton,Georgia,United States
+57097,Tega Cay,South Carolina,United States
+57509,Gig Harbor,WA,United States
+57570,Monterey Park,CA,United States
+58079,Columbia,MD,United States
+58811,Winnipeg,Manitoba,Canada
+59015,Wellington,Wellington,New Zealand
+59057,Seattle,WA,United States
+59487,Hilliard,Ohio,United States
+59919,San Ramon,CA,United States
+60090,Miami,florida,United States
+60179,Wotton-under-Edge,Gloucestershire,United Kingdom
+60155,Minneapolis,MN,United States
+60257,Lake Orion,Michigan,United States
+60081,Los Angeles,California,United States
+60520,Orting,WA,United States
+60609,Vero Beach,FL,United States
+61125,Richmond,California,United States
+60805,Tampa,FL,United States
+60881,San Diego,CA,United States
+61651,Abraq khaitan,Alfarwaniyah,Kuwait
+61700,Roseville,California,United States
+61799,Aberdeen,Aberdeen City,United States
+62270,Bothell,WA,United States
+62007,San jose,ca,United States
+62529,Vienna,VA,United States
+62777,Arcadia,CA,United States
+62797,Washington,District Of Columbia,United States
+62825,Ipswich,Suffolk,United Kingdom
+62961,Lewisburg,Pennsylvania,United States
+60010,Middle Village,NY,United States
+60409,Monterey,CA,United States
+60501,Pleasanton,CA,United States
+60609,El Dorado Hills,CA,United States
+60629,Rio de Janeiro,Rio de Janeiro,Brazil
+60807,LUMBY,BC,United States
+60845,Arlington,VA,United States
+64159,Toronto,ON,Canada
+64497,London,London,United Kingdom
+64509,Vigra,M;re og Romsdal,Norway
+64547,New York,NY,United States
+65250,Frisco,Texas,United States
+65020,Zurich,Zurich,Switzerland
+65560,New Albany,In,United States
+66045,NDIP,QC,Canada
+66681,Bixby,OK,United States
+67821,Nhill,Victoria,Australia
+67501,Monterrey,N.L,Mexico
+68959,Colonia,NJ,United States
+68090,Green Cove Springs,FL,United States
+68550,Champaign,Illinois,United States
+68621,Waltham,Massachusetts,United States
+69461,East brunswick,NJ,United States
+69497,LEANDER,TX,United States
+69469,Huntersville,North Carolina,United States
+69551,Newtown Square,PA,United States
+69525,Randolph,New Jersey,United States
+67007,Rugby,Warwickshire,United Kingdom
+67010,Wilmette,il,United States
+68080,Calgary,Alberta,Canada
+68110,Milpitas,Ca,United States
+69081,Pasadena,CA,United States
+69841,Tuttlingen,Baden-W?rttemberg,Germany
+69985,Norrkoping,Ostergotland,Sweden
+70167,Sydney,NSW,Australia
+69757,Bay Point,California,United States
+70755,London,London,United Kingdom
+70771,New Orleans,LA,United States
+71019,Los Angeles,CA,United States
+71299,Providence,RI,United States
+71277,REDMOND,Washington,United States
+71020,Maisons-Laffitte,Yvelines,France
+71081,Riverside,CA,United States
+71481,Cardiff,CA,United States
+71467,Cambridge,MA,United States
+71550,GURGAON,HARYANA,India
+71559,GROVER,North Carolina,United States
+71641,Lawrence,Kansas,United States
+71767,Kingwood,TX,United States
+71801,San Francisco,California,United States
+72000,Regent West,VIC,Australia
+71960,Lorton,Virginia,United States
+72825,Tulsa,ok,United States
+70145,Tempe,AZ,United States
+70409,Delray Beach,FL,United States
+71900,UEP Subang Jaya,Selangor,Malaysia
+71989,Swannanoa,NC,United States
+74269,Mission Viejo,CA,United States
+74257,Narraweena,NSW,Australia
+74640,Etadhamen,Ariana,Tunisia
+74650,Wappingers Falls,NY,United States
+75179,Kuanthan,pahang,Malaysia
+75649,San Francisco,CA,United States
+75995,Orlando,Florida,United States
+74921,Plano,TX,United States
+77789,Ilminster,Somerset,United Kingdom
+78015,Apple Valley,Minnesota,United States
+78419,SAN FRANCISCO,CA,United States
+78507,Morganton,NC,New Zealand
+78651,Central City,NE,United States
+79161,Besiktas,istanbul,United States
+79785,Columbus,Ohio,United States
+79881,Box Hill,VIC,Australia
+79981,EAST GRAND RAPIDS,MI,United States
+80101,North Wales,PA,United States
+80117,Willemstad,Jan Thiel,Netherlands Antilles
+80040,New York,NY,United States
+80421,Seattle,Washington,United States
+80689,Honolulu,Hawaii,United States
+81159,Portland,Oregon,United States
+81201,Westerville,OH,United States
+81029,Barrie,Ontario,Canada
+81540,West Hollywood,CA,United States
+81581,Dublin,CA,United States
+79007,Hanford,CA,United States
+79060,Calabasas,CA,United States
+81965,Akarp,Skane,Sweden
+80041,Morrow,Georgia,United States
+80117,Franklin,Tennessee,United States
+80141,Lothian,MD,United States
+80100,Turku,Turku,Finland
+80279,McDougall,ON,Canada
+80621,Wolverhampton,West Midlands,United Kingdom
+84267,Moorpark,Ca,United States
+84000,New York,NY,United States
+85189,Stamford,CT,United States
+85011,Austin,TX,United States
+85460,Yatala Vale,SA,Australia
+85600,Brooklyn,NY,United States
+87205,MILFORD,Ohio,United States
+86871,Elbasan,Albania,United States
+86870,Amersfoort,Utrecht,Netherlands
+86679,Boynton Beach,FL,United States
+87765,Drexel Hill,PA,United States
+88079,Randwick,NSW,Australia
+84727,San Diego,CA,United States
+86491,Denver,Colorado,United States
+86511,Knoxville,TN,United States
+88815,Mississauga,Ontario,United States
+89010,Port Harcourt,RS,Nigeria
+89597,Renton,WA,United States
+90005,Holladay,Utah,United States
+90140,Buckingham,BUCKS,United Kingdom
+90251,Newburgh,Ontario,Canada
+90541,New Orleans,LA,United States
+88507,Yass,nsw,Australia
+91299,Los Angeles,California,United States
+92009,Singapore,Singapore,Singapore
+92155,Guelph,Ontario,United States
+92501,Bradenton,FLORIDA (FL),United States
+92527,Maple Ridge,British Columbia,Canada
+92577,Jaffrey,NH,United States
+92927,San Diego,ca,United States
+90175,Santa Fe,New Mexico,United States
+91075,HAYWARDS HEATH,WEST SUSSEX,United Kingdom
+90061,Surry Hills,New South Wales,Australia
+90480,Doha,Qatar,Qatar
+94509,Rochester,Kent,United Kingdom
+94761,Mount Angel,OR,United States
+94809,Atlanta,GA,United States
+97011,Simi Valley,California,United States
+97151,Lake Charles,LA,United States
+97140,Hoffman Estates,Illinois,United States
+97079,Northampton,Massachusetts,United States
+97659,Oakland,California,United States
+97745,Hospitalet de Llobregat,Barcelona,Spain
+97987,Newmarket,Ontario,Canada
+97985,Glencoe,IL,United States
+99147,Sydney,NSW,Australia
+99005,Midway,Utah,United States
+99021,Fort Lee,New Jersey,United States
+99457,New York,New York,United States
+99915,Anchorage,AK,United States
+15,Saint Louis,MO,United States
+640,Nelson,Nelson,New Zealand
+1501,Honeoye Falls,New York,United States
+98569,Vancouver,BC,Canada
+1871,Brooklyn ny,NY,United States
+2271,Turner,ACT,Australia
+2740,Vancouver,British Columbia,United States
+2869,New Glarus,Wisconsin,United States
+220,Annecy,France,France
+850,Scottsdale,AZ,United States
+1825,Honolulu,HI,United States
+6220,Cork,Cork,United Kingdom
+6571,Clearfield,Utah,United States
+7011,Warszawa,Mazowieckie,United Kingdom
+7767,Mississauga,Ontario,Canada
+7855,Westmead,NSW,Australia
+8420,New York,New York,United States
+8757,Fresno,California,United States
+7597,North York,Ontario,Canada
+8217,Seogwipo City,Jejudo,South Korea
+10485,Brooklyn,NY,United States
+10560,Allentown,Pennsylvania,United States
+11405,Kearney,NE,United States
+14697,Sequim,WA - Washington,United States
+15119,Hawthorn,VIC,Australia
+12450,Sydney,NSW,Australia
+19747,Oldendorf,Niedersachsen,Germany
+19001,Coimbra,Coimbra,Portugal
+20217,Bronx,NY,United States
+21160,Golden,Co,United States
+21481,Minneapolis,MN,United States
+21609,Swift Current,Saskatchewan,Canada
+21697,St. Augustine,FL,United States
+24000,Ermelo,Mpumalanga,South Africa
+25010,Ohrid,Macedonia,United States
+25265,South Prince George,VA,United States
+25401,Ad dhahran,Eastern province,United States
+25681,Hales Corners,Wisconsin,United States
+25667,Denver,CO,United States
+25969,Sacramento,CA,United States
+26069,Orlando,FL,United States
+26405,Adamsville,Al,United States
+26951,Kaposv?r,Somogy,Hungary
+27191,Columbia,MO,United States
+27245,Wauwatosa,WI,United States
+28007,Los Angeles,CA,United States
+28999,Srem,Wielkopolska,Poland
+29110,Gombe,Gombe,Nigeria
+29177,Germantown,MD,United States
+29007,Pennington,NJ,United States
+29771,Columbia,MO,United States
+29821,Somerville,MA,United States
+10,Orange,CT,United States
+485,Ashland,OR,United States
+875,WESTCHESTER,Illinois,United States
+1460,New York,New York,United States
+1425,Troy,Michigan,United States
+1511,Quebec,QC,Canada
+2010,Miami,Florida,United States
+2275,Thompsons Station,Tennessee,United States
+2257,Omaha,NE,United States
+2047,Centreville,VA,United States
+75,Greensboro,North Carolina,United States
+1,Plymouth,Devon,United Kingdom
+5057,PHILADELPHIA,Pennsylvania,United States
+5407,Mansfield,Victoria,Australia
+5057,LAGUNA HILLS,CA,United States
+6150,Hong Kong,Sai Ying Pun,Hong Kong
+7059,Hillsboro,Kansas,United States
+8210,Beecher,IL,United States
+8241,Bandar Baru Bangi,Selangor,Malaysia
+8590,Virginia Beach,Virginia,United States
+9007,Longmont,CO,United States
+9197,AUSTIN,TX,United States
+9181,Ewa Beach,HI,United States
+9259,Weehawken,New Jersey,United States
+9651,Flemington,NJ,United States
+9655,Palmyra,ME,United States
+40445,Arlington,VA,United States
+40589,Brunei darussalam,Brunei,Brunei Darussalam
+40580,Edmonton,AB,Canada
+40811,Largs Bay,SA,Australia
+40609,Weidman,Michigan,United States
+40615,Funkstown,Md,United States
+845,Lincoln,MA,United States
+42875,Indianapolis,Indiana,United States
+40109,Brooklyn,NY,United States
+40200,Wilmington,DE,United States
+40470,Marietta,GA,United States
+40617,Harrogate,Northyorkshire,United Kingdom
+40720,Winnetka,California,United States
+44689,Doha,(AF) Free State,Qatar
+44760,Lauderdale by the Sea,FL,United States
+44809,Visalia,Ca,United States
+45427,Fairlight,NSW,Australia
+46020,Wyckoff,New Jersey,United States
+46557,Lakewood,WA,United States
+46540,Dromana,Victoria,Australia
+47505,Carlton North,Victoria,Australia
+47695,Fort Lee,NJ,United States
+48251,Midland Park,New Jersey,United States
+49487,Los Angeles,CA,United States
+51421,Canoga Park,CA,United States
+51547,Spring Valley,California,United States
+52959,Raleigh,NC,United States
+50085,Zapopan,Jalisco,Mexico
+50010,Rowlett,Texas,United States
+50805,Sao Paulo,SP,Brazil
+52801,Thornhill,On,Canada
+54650,AUSTIN,Texas,United States
+54169,Minneapolis,Minnesota,United States
+57009,Philadelphia,PA,United States
+56701,Clifton Park,NY,United States
+57627,Monrovia,California,United States
+57699,Mississauga,Ontario,Canada
+58207,San Antonio,Tx,United States
+58791,Fremont,California,United States
+59457,Newbridge,Co. Kildare,Ireland
+59821,St. Paul,MN,United States
+60010,Woodstock,IL,United States
+60291,San Diego,California,United States
+60087,Centreville,va,United States
+60077,Johor Bahru,Johor,Malaysia
+60095,West Jordan,UT,United States
+60045,Brooklyn,NEW YORK (NY),United States
+60417,Toronto,Ontario,Canada
+55069,Kenmore,(AU) Queensland,Australia
+58889,Atlanta,GA,United States
+59125,Hawthorn,Vic,Australia
+59150,Long Branch,New Jersey,United States
+59951,Foothill Ranch,CA,United States
+60049,Lynden,WA,United States
+60471,Los Angeles,CA,United States
+60517,Westminster,California,United States
+62207,Beaverton,Oregon,United States
+62155,Houston,TX,United States
+61969,Houston,TX,United States
+61955,Los Angeles,CA,United States
+61891,Peoria,AZ,United States
+61125,Scituate,MA,United States
+61647,Frederick,State,United States
+60805,Quezon City,Philippines,Philippines
+61149,Kenilworth,Qld,Australia
+60101,Schenectady,New York,United States
+60069,Harvest,Alabama,United States
+60070,Sacramento,CA,United States
+61067,Singapore,None,Singapore
+60799,Kettering,OH,United States
+64790,LOS ANGELES,California,United States
+64707,El Paso,Texas,United States
+64865,Beachwood,OH,United States
+64141,San Diego,CA,United States
+64509,Woodside,NY,United States
+60905,Clinton,NJ,United States
+65060,Orange,CA,United States
+65065,Parker,CO,United States
+65129,Waipahu,HI,United States
+65275,Darien,IL,United States
+66271,Leopold,Victoria,Australia
+66880,Cupertino,CA,United States
+66989,Southampton,Hampshire,United Kingdom
+67029,Annecy,France,France
+67099,Ridgewood,NJ,United States
+67197,Montreal,Quebec,Canada
+67486,Edmond,OK,United States
+67490,Bronx,New York,United States
+67516,Mississauga,ON,Canada
+67712,Redmond,Wa,United States
+67756,Centreville,VA,United States
+67848,Houston,Texas,United States
+67870,San Francisco,CA,United States
+67890,Prairie Du Sac,WI - Wisconsin,United States
+68092,Niddrie,VIC,Australia
+68116,Bentonville,Arkansas,United States
+68078,Mornington,VIC,Australia
+68400,Brisbane,QLD,Australia
+68552,Miramar,FL,United States
+68664,Byram Township,New Jersey,United States
+68800,El Casar de Escalona,El Casar de Escalona,Spain
+68840,Bangalore,Karnataka,United States
+69290,Birmingham,AL,United States
+69444,CARLSBAD,CA,United States
+69496,Regina,Saskatchewan,Canada
+69526,Alexandria,Virginia,United States
+69582,Wilmette,IL,United States
+69592,Abington,PA,United States
+69684,Silver Spring,MD,United States
+69712,Milpitas,CA,United States
+69876,Houston,Texas,United States
+69888,Surrey,BC,United States
+69902,SEATTLE,WA,United States
+70056,Nutley,NJ,United States
+70122,Provo,Utah,United States
+70148,Brooklyn,NY,United States
+70156,Providence,RI,United States
+70188,North Caldwell,New Jersey,United States
+70218,Raleigh,NC,United States
+70256,St. Louis,MO,United States
+70270,Colonia Nicolich,Canelones,Uruguay
+70280,Sugar Land,Texas,United States
+70290,Burbank,CA,United States
+70002,Charlotte,NC,United States
+70064,Los Angeles,CA,United States
+70086,Rosetown,SK,Canada
+70400,Santa Barbara,CA,United States
+70416,Chesapeake Beach,Maryland,United States
+70462,Rego park,New York,United States
+70966,Jupiter,FL,United States
+70986,ERNAKULAM,Kerala,India
+71748,Shaker Heights,OH,United States
+71764,Montreal,Quebec,United States
+71822,Mississauga,Ontario,Canada
+72124,Petaling Jaya,Selangor,Malaysia
+72200,Penzance,Cornwall,United Kingdom
+72904,Potomac,MD,United States
+72940,PORTLAND,Oregon,United States
+70196,Victoria,British Columbia,Canada
+70426,APO,AE,United States
+70494,WALNUT CREEK,CA,United States
+70678,Vancouver,BC,Canada
+70688,SANTA CRUZ,CA,United States
+74180,Chailly-Montreux,VD,Switzerland
+74422,Bayswater,WA,Australia
+74990,South Oropouche,TT,Trinidad and Tobago
+75068,Mansfield,TX,United States
+75462,Torrance,ca,United States
+75702,Reno,NV - Nevada,United States
+75918,Coquitlam,British Columbia,Canada
+76872,Waterford,Waterford,Ireland
+76772,Durham,NC,United States
+75952,Mentone,Victoria,Australia
+77906,Dunedin,Florida,United States
+78002,Tucson,AZ,United States
+78726,Birmingham,West Midlands,United Kingdom
+78904,Roseville,Minnesota,United States
+79016,Marshfield,MO,United States
+79050,Birchanger,Essex,United Kingdom
+79482,Toronto,ON,Canada
+80162,George Town,Grand Cayman,Cayman Islands
+80006,PUNE,MAHARASHTRA,United States
+82048,St. Louis,MO,United States
+82004,Barrie,ON,Canada
+82298,Brooklyn,New York,United States
+82018,Long Island City,New York,United States
+81820,Fair Lawn,New Jersey,United States
+81702,Houston,Texas,United States
+81676,Ames,IA,United States
+81456,Grand Rapids,MI,United States
+81014,Arroyo Grande,CA,United States
+81080,Collado Villalba,Madrid,Spain
+80746,SG,SG,Singapore
+80962,Vienna,Vienna,Austria
+80052,Stratford,Ontario,Canada
+80756,Kingfisher,OK,United States
+80948,Chicopee,MA,United States
+84052,Pasadena,ca,United States
+84500,Vienna,VA,United States
+84604,Irvine,CA,United States
+84720,Kunak,Sabah,Malaysia
+86018,Vedav;gen,Karmy;,United Kingdom
+86992,Brockton,Massachusetts,United States
+86990,Phoenix,AZ,United States
+86922,Brooklyn,NY,United States
+86868,Kaysville,Utah,United States
+86450,Liverpool,Merseyside,United Kingdom
+86524,Salt Lake City,UT,United States
+85844,Richmond,VA,United States
+87208,DUBLIN,CA,United States
+88400,Sheffield,South Yorkshire,United Kingdom
+88702,Wien,Wien,United States
+88828,Zgornje Gorje,Gorenjska,Slovenia
+88940,Blacktown,NSW,Australia
+89122,Long Beach,California,United States
+90528,Moneta,VA,United States
+92126,Springfield,OH,United States
+94182,Tucson,AZ,United States
+90012,Westbury,New York,United States
+92998,Chatswood,nsw,Australia
+92452,Santa Monica,CA,United States
+92694,Rotterdam,NH,Netherlands
+92440,Seongnam si,Gyeonggi do,South Korea
+95728,DEVIZES,Wiltshire,United Kingdom
+95682,SPRINGFIELD,Oregon,United States
+95252,Boulder,CO,United States
+94884,Roswell,Ga,United States
+94808,Pearland,TX,United States
+94682,Pickering,State (US Residents)*,Canada
+95924,Chicago,IL,United States
+96092,Kansas City,MO,United States
+96004,Montreal,Quebec,Canada
+96466,Brooklyn,NY,United States
+96542,Birmingham,West Midlands,United Kingdom
+97002,Bochum,NRW,Germany
+97098,Pattaya,Chonburi,Thailand
+97912,Missouri City,TX,United States
+98014,Chambly,Quebec,Canada
+98424,Upland,CA,United States
+98908,Fremont,California,United States
+99052,Dartford,Kent,United Kingdom
+99856,Fairfax,Virginia,United States
+450,Beckenham,WA,Australia
+624,Hoppers Crossing,VIC,Australia
+1218,Astoria,NY,United States
+1248,LUDHIANA,PUNJAB,India
+1722,AUSTIN,TX,United States
+1760,Hanover Park,IL,United States
+1908,Atlanta,Georgia (GA),United States
+2164,Montgomery,TX,United States
+2522,Denver,CO,United States
+2662,Ruislip,Middlesex,United Kingdom
+2924,Wyndham Vale,Victoria,Australia
+2926,Calgary,Alberta,United States
+78,Noble Park,VIC,Australia
+760,New York,NY;-;New York,United States
+4762,Honolulu,HI,United States
+4492,Knoxville,TN,United States
+4480,Dayton,Oh,United States
+5704,Hawthorne,QLD,Australia
+5584,Toronto,On,Canada
+5140,Richwood,TX,United States
+4956,Omaha,NEBRASKA (NE),United States
+6528,Stroud,glos,United States
+6850,Merrick,NY,United States
+6876,Walton-On-Thames,Surrey,United Kingdom
+7586,Piscataway,NJ,United States
+7778,Sydney,NSW,Australia
+7880,Sammamish,WA,United States
+7914,Athens,GA,United States
+8000,Christchurch,New Zealand,New Zealand
+8264,Las vegas,Nv,United States
+8828,Limpopo,pietersburg,South Africa
+8824,Mill Valley,CA,United States
+9644,Weston,Florida,United States
+10024,Ocala,fl,United States
+10866,"Kilcoole, Greystones",County Wicklow,Ireland
+11462,London,London,United Kingdom
+11700,Budd Lake,NJ,United States
+11802,Fort Plain,NY,United States
+11904,Montreal,Quebec,Canada
+12674,San Jose,CA,United States
+12950,New York,New York,United States
+10018,Brisbane,QLD,Australia
+10100,Los Ageles,CA,United States
+10264,Minneapolis,MN,United States
+10976,Zurich,Zurich,Switzerland
+14450,Cumming,GA,United States
+14588,Lansdale,PA,United States
+15016,Steamboat Springs,CO,United States
+15718,Oklahoma City,OK,United States
+16108,Nashville,TN,United States
+16018,Boroko,Port Moresby,Papua New Guinea
+16424,Pleasanton,CA,United States
+16918,Ellicott City,Maryland,United States
+17512,Atherton,CA,United States
+17748,Manly Vale,NSW,Australia
+17806,Wien,Wien,Austria
+18802,New Albany,Ohio,United States
+18880,Abuja,FCT,Nigeria
+19250,Smithers,BC,Canada
+19646,North Charleston,SC,United States
+19850,Goulburn,NSW,Australia
+19898,SEATTLE,Washington,United States
+19914,Berane,Montenegro,Montenegro
+19978,Redondo Beach,CA,United States
+20022,Atlanta,GA,United States
+20098,Manchester,Greater Manchester,United Kingdom
+20212,Rolling Hills Estates,CA,United States
+20010,North Vancouver,BC,Canada
+20022,Louisville,KY,United States
+20056,Gilbert,Arizona,United States
+20412,Chicago,il,United States
+20598,Morrow,Georgia,United States
+20202,Townsville,Queensland,Australia
+20228,Fremont,CA,United States
+20142,Singapore,Singapore,Singapore
+20072,Fort Lauderdale,Florida,United States
+22910,Thornhill,Ontario,Canada
+22860,Temecula,CA,United States
+22864,Phoenix,AZ,United States
+22774,Northfield,NJ,United States
+22698,Roswell,Georgia,United States
+22780,South Grafton,MA,United States
+22542,Overport,durban,South Africa
+21892,San Diego,Ca,United States
+22268,Rogersville,MO,United States
+22284,Cerritos,CA,United States
+22102,Milton,MA,United States
+21622,Sunnyvale,CA,United States
+20920,London,uk,United Kingdom
+21166,Fitchburg,WI,United States
+21718,Redding,Ca,United States
+20208,Little Elm,TX,United States
+20004,San Jose,San Jose,Costa Rica
+20060,Bloomington,Indiana,United States
+20456,Gladesville,NSW,Australia
+20542,San Francisco,CA,United States
+24084,Hove,east sussex,United Kingdom
+24282,Santa Monica,CA,United States
+24600,Madrid,Madrid,Spain
+24808,Lehi,Utah,United States
+25066,Baltimore,MD,United States
+25648,Richboro,PA,United States
+26220,DUBAI,DUBAI,United Arab Emirates
+26694,Centennial,Colorado,United States
+27002,Slough,Berkshire,United Kingdom
+27066,Bogota,CUNDINAMARCA,Colombia
+27760,Melville,NY,United States
+28668,Riverton,UT,United States
+28000,Warwick,Qld,Australia
+28846,Lyneham,ACT,Australia
+29062,Raleigh,NC,United States
+12,"Vancouver ,BC",WA,Canada
+206,SEATTLE,WASHINGTON,United States
+444,San Diego,CA,United States
+2064,Skeyton,norfolk,United Kingdom
+1946,Calgary,Alberta,Canada
+1906,Hanoi,Hanoi,Viet Nam
+1892,Tomball,TEXAS (TX),United States
+1756,Brooklyn,New York,United States
+1614,Miami,FL,United States
+856,Yola town,Adamawa state,Nigeria
+1482,Brooklyn,New York,United States
+2692,Mill Valley,CA,United States
+2562,Red Deer,Alberta,Canada
+2450,Whitby,Ontario,Canada
+2276,Augsburg,Bayern,Germany
+142,Chicago,IL,United States
+242,San Jose,CA,United States
+528,Bergen,Hordaland,Norway
+606,Los Angeles,CA,United States
+726,Kalamunda,WA,Australia
+4112,Chessington,Surrey,United Kingdom
+4224,Mysore,Karnataka,India
+4044,Brooklyn,NY,United States
+4072,BRAS;LIA,DISTRITO FEDERAL,Brazil
+4558,Torrance,CA,United States
+4598,North York,On,Canada
+4692,Murfreesboro,Tennessee,United States
+4804,Portsmouth,New Hampshire,United States
+4974,Dublin,Leinster,Ireland
+5226,Sandton,Johannesburg,South Africa
+5080,Cumming,Ga,United States
+5506,Tampa,FL,United States
+5604,Pleasanton,CA,United States
+5640,Pleasanton,CA,United States
+5720,Tucson,AZ,United States
+5798,M;nchen,Bayern,Germany
+5790,London,London,United Kingdom
+5910,Fort Collins,CO,United States
+5976,Greensboro,Pl,United States
+5994,Minneapolis,Minnesota,United States
+5984,Garland,Texas,United States
+6004,Milwaukee,WI,United States
+6114,Charlotte,NC,United States
+6102,SALT LAKE CITY,Utah,United States
+6124,Hawthorne,Ca,United States
+6150,Beloeil,Quebec,Canada
+6218,Epping,nsw,Australia
+6208,Agnes Water,QLD,Australia
+6270,Hillarys,WA,Australia
+6022,Belair,SA,Australia
+6584,Suwanee,Georgia,United States
+6608,London,London,United Kingdom
+6708,Chennai,TamilNadu,India
+6970,Denver,Colorado,United States
+7500,Okazaki,AICHI,Japan
+8096,Clinton,TN,United States
+8086,Kolkata,West bangal,India
+8210,Santa Clara,CA,United States
+8802,Marrickville,NSW,Australia
+8872,Lake Orion,Michigan,United States
+9050,San Diego,California,United States
+9216,Portland,OR,United States
+9646,Hong Kong,Hong Kong,Hong Kong
+9680,Friendswood,TX,United States
+9868,Melbourne,Victoria,Australia
+40904,Pleasanton,CA,United States
+41272,Bogota,Cundinamarca,Colombia
+41628,Lima,Lima,Peru
+42040,Tacoma,WA,United States
+42196,Anchorage,AK,United States
+42924,Prilep,Macedonia,Republic of Macedonia
+40294,Brooklyn,NY,United States
+40564,San Francisco,CA,United States
+40870,Anchorage,Alaska,United States
+44080,Long Beach,CA,United States
+44444,Clearwater,British Columbia,Canada
+44704,Edmonton,AB,Canada
+44924,Chicago,Illinois,United States
+45748,Saint Simons Island,GA,United States
+45802,Johnson city,ny,United States
+45998,Durban,South africa,South Africa
+46518,Glasgow,Glasgow City,United Kingdom
+46542,Chicago,il,United States
+46676,Bensenville,IL,United States
+47052,Glebe,New South Wales,Australia
+47724,DEARBORN,MI,United States
+47986,Carmel,Indiana,United States
+48148,New York,NY,United States
+48448,Los angeles,California,United States
+49540,Phoenix,AZ,United States
+50646,Burlington,Ontario,Canada
+50702,Plano,Texas,United States
+50872,Oakland,CA,United States
+50950,Port Melbourne,Vic,Australia
+51570,Haeundae-gu,Busan,South Korea
+51654,St Kilda East,VIC,Australia
+52294,Pleasanton,CA,United States
+52952,Vancouver,British Columbia,Canada
+50022,Scottsdale,Arizona,United States
+52746,Lake Forest Park,WA,United States
+55252,Newark,DE,United States
+55106,Leicester,Leicestershire,United Kingdom
+54284,Oxford,Oxfordshire,United Kingdom
+54524,Chesterfield,MO,United States
+54480,Jackson,NJ,United States
+54060,London,Other,United Kingdom
+56726,Fairchild AFB,WA,United States
+58476,Castleton,New York,United States
+58294,Santa Barbara,CA,United States
+57874,Cambridge,MA,United States
+57704,Cowra,NSW,Australia
+58712,Tustin,CA,United States
+58806,Boulder,Colorado,United States
+61026,Pleasanton,CA,United States
+61014,Naucalpan,Mexico,Mexico
+61102,San Diego,CA,United States
+61500,Cedar Rapids,Iowa,United States
+62016,Charlotte,NC,United States
+62706,Milwaukee,Wisconsin,United States
+60010,North Canton,OH,United States
+60098,Munich,Bavaria,Germany
+60004,Rochester,Minnesota,United States
+60796,Amarillo,TX,United States
+64000,San Leandro,California,United States
+64026,Los Angeles,California,United States
+64628,Doha,Doha,Qatar
+64680,New York,NY,United States
+64782,San Diego,Ca,United States
+65096,Albany,CA,United States
+65406,West New York,New Jersey,United States
+66586,Columbus,OH,United States
+66646,Tempe,AZ,United States
+67006,Greensboro,nc,United States
+67696,Walnut creek,CA,United States
+68212,Tempe,AZ,United States
+68228,Pasadena,California,United States
+68218,Palmdale,CA,United States
+68062,San diego,Ca,United States
+68928,N.providence,RI,United States
+69246,Houston,TX,United States
+69516,Lake Forest,CA,United States
+70218,Fond du Lac,WI,United States
+70654,Delaware,Ohio,United States
+70784,Tampa,Florida,United States
+71060,York,North Yorkshire,United Kingdom
+71122,San andr;s cholula,Puebla,Mexico
+71020,Dallas,Texas,United States
+71508,Columbus,OH,United States
+71916,Pittsburgh,PA,United States
+71928,Annandale,VA,United States
+71970,Vancouver,BC,Canada
+72018,S;o paulo,sp,Brazil
+72860,Turmero,Aragua,Venezuela
+70070,Powell River,British Columbia,Canada
+70024,Dublin 6,(for U.S. Residents),Ireland
+70070,New York,New York,United States
+70068,Sandusky,Ohio,United States
+70594,Decatur,GA,United States
+70616,Calgary,Alberta,Canada
+70708,Culiacan,Sinaloa,Mexico
+74568,Saratoga Springs,New York,United States
+74916,Goodlands,MB,Canada
+75686,Sugarland,Texas,United States
+75906,Prattville,Alabama,United States
+76966,Hayward,CA,United States
+77570,East Meadow,NY,United States
+77616,M;nchengladbach,North Rhine-Westphalia,Germany
+77786,Toronto,ON,Canada
+77906,Farmington,MN,United States
+77986,San Francisco,CA,United States
+78576,Leeds,West Yorkshire,United Kingdom
+79150,Heerhugowaard,Noord-Holland,Netherlands
+79948,Freeport,NY,United States
+80660,Burbank,CA,United States
+80902,Oakland,CA,United States
+81406,Fredericksburg,VA,United States
+82072,Taoyuan,N/A,Taiwan
+82210,Brampton,ON,Canada
+82094,High Wycombe,Buckinghamshire,United Kingdom
+80216,Knoxville,TN,United States
+80746,Vienna,AUSTRIA,Austria
+84160,Brooklyn,NY,United States
+84040,Chicago,Illinois,United States
+84972,Nairobi,Nairobi,Kenya
+86186,Brentwood,TN,United States
+88428,Morning View,KY,United States
+89002,Clearfield,utah,United States
+89002,Lyndhurst,Victoria,Australia
+89070,Maryborough,QLD,Australia
+89574,Mountain View,California,United States
+90198,Onitsha,Anambra state,New Zealand
+90526,Guastalla,italy,Italy
+90670,Castro valley,ca,United States
+91620,Barcelona,BC,Spain
+92424,Flushing,New York,United States
+92596,Houston,Texas,United States
+92872,Birmingham,AL,United States
+90504,Chandler,Arizona,United States
+94402,Edison,New Jersey,United States
+94402,Austin,TX,United States
+90800,Indianapolis,Indiana,United States
+95014,Los Angeles,CA,United States
+95088,Saratoga,California,United States
+94540,Holter,Akershus,Norway
+95600,New York,NY,United States
+95628,Raleigh,NC,United States
+95624,South Yarra,VIC,Australia
+95694,Toronto,ON,Canada
+95820,Clearwater,FL,United States
+96692,Toronto,Ontario,Canada
+97004,Mississauga,ontario,Canada
+97122,New Haven,CT,United States
+97664,College Station,Texas,United States
+98220,Burlington,VT,United States
+97854,Moosomin,SK,Canada
+97922,Putney,London,United Kingdom
+97808,Rockville Centre,New York,United States
+97226,Phoenix,AZ,United States
+97596,Murray,UT,United States
+97514,GOLDEN,CO,United States
+99566,Bountiful,UT,United States
+99552,Bountiful,UT,United States
+99092,Austin,TX,United States
+99040,New York,ny,United States
+99200,Melbourne,Victoria,Australia
+99102,West Hollywood,CA,United States
+98864,Lorton,VA,United States
+98800,Cardiff,CA,United States
+98702,Ranchi,jh,India
+99988,Bixby,OK,United States
+0,Auburn,NY,United States
+126,Metairie,La,United States
+184,Winnipeg,MB,Canada
+204,Topeka,Ks,United States
+296,San Diego,CA,United States
+40,Dubai,Dubai,United Arab Emirates
+404,M;nchen,Bavaria,Germany
+494,New York,NY,United States
+568,Fremont,CA,United States
+672,Hermosa Beach,CA,United States
+1216,Laurel,MD,United States
+1042,COCKBURN CENTRAL,WA,Australia
+1708,Chester,VA,United States
+2040,Alexandria,VA,United States
+2070,SLC,UT,United States
+1808,Dallas,Texas,United States
+1984,Chula Vista,California,United States
+1958,Kelowna,BC,Canada
+158,Arlington,VA,United States
+2948,Brooklyn,NY,United States
+2848,Honolulu,Hawaii,United States
+2762,Laurel,Maryland,United States
+2600,Fairfax,VA,United States
+422,Salt Lake City,UT,United States
+518,Webster,Texas,United States
+594,Toronto,ON,Canada
+992,Richmond,North Yorkshire,United Kingdom
+4706,Bend,OR,United States
+4872,Singapore,Singapore,Singapore
+5014,Lindfield,NSW,Australia
+5006,Carmel,IN,United States
+5260,Washington,DC,United States
+5290,Philomath,OR,United States
+5080,Kingman,AZ,United States
+5708,Brooksville,FL,United States
+5762,Lafayette,CO,United States
+6226,Aurora,Colorado,United States
+6292,Indinapolis,IN,United States
+6068,Richmond,VA,United States
+6070,Sydney,NSW,Australia
+6078,Babinda,Queensland,Australia
+6648,Houston,TX,United States
+7046,Columbus,Ohio,United States
+7224,Minna,* SELECT STATE *,Nigeria
+7610,Austin,TX,United States
+8072,Midland,TX,United States
+8178,Mu. Mumbai,Ma,United States
+8228,Toronto,ON,Canada
+8008,Barcelona,Barcelona,Spain
+8844,Los Angeles,California,United States
+9654,Norwalk,California,United States
+9828,HONG KONG,Xianggang [Hong Kong],China
+9878,Kailua-Kona,HI,United States
+10058,Upwey,VIC,Australia
+10508,COLLEGEVILLE,pa,United States
+10610,Pretoria,Gauteng,South Africa
+10702,Trenton,NJ,United States
+10754,Macon,Georgia,United States
+10818,Chicago,IL,United States
+12048,Croydon,Surrey,United Kingdom
+11954,You Springs,PA,United States
+11928,BOLLNAS,HALSINGLAND,Sweden
+11702,Los Angeles,CA,United States
+11040,Bangalore,Karnataka,United States
+12608,Beaverton,Oregon,United States
+12062,New Orleans,Louisiana,United States
+11660,Pasadena,CA,United States
+12908,Denver,co,United States
+10004,Kingsland,tx,United States
+10024,Karenpark,Gauteng,South Africa
+10792,Cooper City,Florida,United States
+10966,Bassendean,WA,Australia
+15186,Chicago,il,United States
+15004,Cockburn Central,WA,Australia
+14678,Jedburgh,Scottish Borders,United Kingdom
+14056,Porter,Texas,United States
+14080,Dublin,CA,United States
+14006,Dinuba,ca,United States
+15772,Redwood City,CA,United States
+16042,Calgary,Alberta,Canada
+16448,Los Angeles,CA,United States
+16548,Watertown,ma,United States
+16640,Mississauga,Ontario,Canada
+17152,Amsterdam,Amsterdam,Netherlands
+17216,Stalybridge,Cheshire,United Kingdom
+17268,Ropes Crossing,NSW,Australia
+17802,Eden Priarie,Minnesota,United States
+18112,Kampen,Overijssel,Netherlands
+17996,New York,NY,United States
+18174,New York,NY,United States
+18490,Austin,TEXAS,United States
+18704,Tullahoma,TN,United States
+18702,Santa Monica,California,United States
+19022,South Hamilton,Massachusetts,United States
+19604,Columbus,Ohio,United States
+19608,Baton Rouge,Louisiana,United States
+19812,Semaphore Park,SA,Australia
+19802,Cork,Cork,Isle of Man
+19924,Baltimore,MD,United States
+20448,Middleboro,MA,United States
+20708,Saint-genest-lerpt,N/A,France
+20748,Vandoeuvre les Nancy,Meurthe et Moselle,France
+20806,Seattle,WA,United States
+20804,Melbourne,VIC,Australia
+21108,Cicero,NY,United States
+21102,Nashville,TN,United States
+21154,Thiais,Idf,France
+21594,Red Boiling Springs,TN,United States
+22280,Springfield,MO,United States
+22060,Fort Collins,CO,United States
+22072,Santa Monica,California,United States
+22760,Coeur d'Alene,Idaho,United States
+22822,Abu Dhabi,Abu Dhabi,United Arab Emirates
+20828,Plymouth,MASSACHUSETTS,United States
+20880,Parkville,Md,United States
+24112,Riverside,CA,United States
+24200,Port Harcourt,Rivers State,Nigeria
+24218,Prince George,British Columbia,Canada
+24010,Pakenham Upper,VIC,Australia
+24526,Coral Gables,Florida,United States
+24558,Anyburg,AS,United States
+24588,Asheville,NC,United States
+24800,Nairobi,Africa,Kenya
+24872,Venice,CA,United States
+25124,Georgetown,oh,United States
+25106,Westlake Village,ca,United States
+25222,Jamestown,North Carolina,United States
+25250,Mullingar,Westmeath,Ireland
+25080,Santa Monica,CA,United States
+25528,Singapore,Singapore,Singapore
+25584,Chicago,IL,United States
+25590,Seattle,WA,United States
+25624,Cambridge,MA,United States
+25672,Sugar Land,Texas,United States
+25686,Philadelphia,Pennsylvania,United States
+25746,Virginia Beach,VA,United States
+25750,Lynnwood,Wa,United States
+25876,Calgary,Alberta,Canada
+25898,San Diego,CA,United States
+25904,Secaucus,NJ,United States
+26004,Sioux Falls,SD,United States
+26288,Ultimo,NSW,Australia
+26460,Auckland,Auckland,New Zealand
+26722,Warwick,Warwickshire,United Kingdom
+26770,Loupian,Pyr;n;es Orientales,France
+26792,San Fernando,Victoria,Trinidad and Tobago
+26818,Seattle,WA,United States
+27764,San Francisco,Ca,United States
+27812,Georgetown,TX,United States
+28500,Singapore,Singapore,Singapore
+28554,Houston,TX,United States
+28782,Kitchener,Ontario,Canada
+29296,Palmdale,CA,United States
+29056,Brooklyn,NY,United States
+29540,London,Uk,United Kingdom
+18,San Diego,Ca,United States
+264,Lincoln Park,MI,United States
+696,Fort collins,Colorado,United States
+700,Eskilstuna,So,Sweden
+804,Gold Coast,Queensland,Australia
+998,COCKBURN CENTRAL,WESTERN AUSTRALIA,Australia
+1072,Falun,Dalarna,Sweden
+1222,MANCHESTER,CHESHIRE,United Kingdom
+1000,Bangkapi,BANGKOK,Thailand
+1604,Nigeria,lagos,Nigeria
+1750,Glendale,CA,Australia
+1806,New York,NY,United States
+1842,Lehi,UT,United States
+2056,Schenectady,NY,United States
+2480,Montgomery Village,Maryland,United States
+12,Tucson,Arizona,United States
+448,AUSTIN,Texas,United States
+506,San Ramon,CA,United States
+592,Nunawading,Victoria,Australia
+602,Swift Current,Saskatchewan,Canada
+4274,Spokane,Wa,United States
+4456,Petaling Jaya,Selangor,Malaysia
+4776,Wellington,Wellington,New Zealand
+5250,Miami,FL,United States
+5422,Fairless Hills,PA,United States
+5662,Woodbury,CT,United States
+5802,Herndon,Virginia,United States
+6004,Richmond,Virginia,United States
+6000,Tempe,Az,United States
+6084,Cambridge,MA,United States
+6662,Guildford,Surrey,United Kingdom
+6680,Rancho Mission Viejo,CA,United States
+7044,Rotherham,SOUTH YORKSHIRE,United Kingdom
+7484,Lawrence,Kansas,United States
+7650,Glendale,Arizona,United States
+8422,Chippendale,New South Wales,Australia
+8480,Cambridge,MA,United States
+8494,The Woodlands,TX,United States
+8746,Kingaroy,qld,Australia
+9022,Richmond,VA,United States
+9162,F?rresfjorden,Rogaland,Norway
+9182,Phelps,NY,United States
+9188,Newark,NJ,United States
+9060,Woodridge,Illinois,United States
+9096,Eranakulam,Kerala,India
+9840,Wilmington,DE,United States
+9842,Delhi,Delhi,India
+40006,Glenrock,WY,United States
+40252,Katwijk aan Zee,Zuid-Holland,Netherlands
+40474,Monterey Park,California,United States
+40654,Brooklyn,Ny,United States
+40662,Gurnee,IL,United States
+41048,Upper Marlboro,MD,United States
+41058,Irvine,CA,United States
+41492,Montreal,Qc,Canada
+41904,Wildomar,CA,United States
+42428,Whitefish Bay,WI,United States
+42708,Brooklyn,NY,United States
+42962,Gaithersburg,Maryland,United States
+40410,Winnipeg,MB,Canada
+44658,Singapore,Singapore,Singapore
+44748,Evans,Georgia,United States
+44852,St Genevieve,Quebec,Canada
+45098,Frontier,SK,Canada
+45796,Simi Valley,CA,United States
+45940,FOSTER CITY,CA,United States
+46268,New York,NY,United States
+46272,Mentor,OH,United States
+46278,COQUITLAM,British Columbia,Canada
+46026,Brisbane,QLD,Australia
+46578,McMinnville,OR,United States
+46624,Allen,TX,United States
+46688,Sioux Falls,South Dakota,United States
+48194,Coventry,West Midlands,United Kingdom
+47906,San Antonio,TX,United States
+47902,Bangalore,Karnataka,India
+47848,Rotherham,South Yorkshire,United Kingdom
+47090,Bangalore,Karnataka,India
+48684,Edmonton,AB,Canada
+48702,Montgomery,IL,United States
+48892,Bras;lia,Distrito Federal,Brazil
+49204,San Leandro,CA,United States
+49556,Waverley,NSW,Australia
+50290,Tucson,AZ,United States
+50400,Wilmington,DE,United States
+50498,Bicester,Ox,United Kingdom
+50766,Centennial,CO,United States
+51150,Centreville,Virginia,United States
+51778,Madina,western,Saudi Arabia
+52700,D'ABADIE,N/A,Trinidad and Tobago
+52892,Wichita Falls,TX,United States
+52996,Ebene Cyber City,Plaine Willem,Mauritius
+50006,Centennial,CO,United States
+50072,Pleasanton,CA,United States
+50472,Plainsboro,NJ,United States
+50478,Barry,Vale  of Glamorgan,United Kingdom
+50744,Myrtle Beach,SC,United States
+50870,Westerly,RI,United States
+54804,Kuala Lumpur,WP,Malaysia
+55190,Las Cruces,New Mexico,United States
+55268,CHUO-KU,TOKYO,Japan
+55544,Portland,ME,United States
+56166,Meerhout,Antwerp,Belgium
+56026,Union City,California,United States
+56066,Fort Worth,Texas,United States
+56572,Silver Spring,MD,United States
+57896,Arlington,Ma,United States
+58698,Brooklyn,New York,United States
+58096,Bel air,Md,United States
+58006,Villa Hills,KY,United States
+58056,Newmarket,Suffolk,United Kingdom
+58888,Cape Canaveral,Florida,United States
+59252,Valls,Tarragona,Spain
+59666,Stockton,ca,United States
+59700,Sarasota,FL,United States
+59816,Glendale,AZ,United States
+59926,Miami,Queensland,Australia
+59978,Berlin,Berlin,Germany
+60096,Dacula,GA,United States
+61062,Brooklyn,NY,United States
+61702,Indian Mound,TN,United States
+61752,Santa Rosa Beach,Florida,United States
+61754,Fribourg,Fribourg,Switzerland
+61870,San diego,ca,United States
+61970,St johns,nl,Canada
+62008,Jersey City,NJ,United States
+62582,Edmonton,Ab,Canada
+62672,Stamford,NY,United States
+62804,Kingston,NY,United States
+62942,London,London,United Kingdom
+62950,Wirral,Merseyside,United Kingdom
+62976,Asheville,NC,United States
+60004,Belle Plaine,IA,United States
+60000,Seattle,WA,United States
+60192,Lakeland,Florida,United States
+60600,San Rafael,CA,United States
+64420,Brooklyn,NY,United States
+64984,Secuaucs,New Jersey,United States
+65278,San Francisco,ca,United States
+65004,Campbell,California,United States
+65018,Somerville,MA,United States
+65070,Lawrenceville,NJ,United States
+65402,London,London,United Kingdom
+65720,Buena Park,CA,United States
+65746,North Las Vegas,NV,United States
+65892,Carnegie,Victoria,Australia
+65946,Brooklyn,New York,United States
+66006,Falls Church,VA,United States
+67456,Franklin Park,Illinois,United States
+67526,Silver Spring,MD,United States
+68160,Mesa,Arizona,United States
+69908,Falls Church,VA,United States
+70046,Tallahassee,Florida,United States
+70694,Miami,FL,United States
+70708,Miami,FL,United States
+70700,C?rdoba Capital,C?rdoba,Argentina
+72188,London,London,United Kingdom
+72548,Ottawa,ON,Canada
+70556,Sorrento,WA,Australia
+70684,Durango,CO,United States
+70878,Pune,Maharashtra,India
+70894,Virginia Beach,VA,United States
+74158,Hope,BC,Canada
+74256,North Wollongong,NSW,Australia
+74448,Livermore,Ca,United States
+74886,Berlin,Berlin,Germany
+75044,Kirkland,WA,United States
+75054,Grange,SA,Australia
+76248,Saco,ME,United States
+76574,MARRICKVILLE,NSW,Australia
+77050,Spanaway,WA,United States
+77224,Sacramento,CA,United States
+77058,Port Orange,FL,United States
+77998,CROYDON,Surrey,United Kingdom
+78744,Brecksville,OH,United States
+78814,Los Angeles,CA,United States
+78818,Vancouver,British Columbia,Canada
+79086,Raleigh,NC,United States
+79808,Alexandria,VA,United States
+80256,Teaneck,NJ,United States
+80408,Medford,MA,United States
+80606,Hull,Yorkshire,United Kingdom
+80978,Fairfiled,ct,United States
+81612,Fairport,NY,United States
+80152,Scone,New South Wales,Australia
+80948,Broadbeach Waters,Queensland,Australia
+84012,Singapore,Singapore,Singapore
+84470,Carmichael,California,United States
+84672,Benbrook,TX,United States
+84692,Baar,Zug,Switzerland
+84990,Benton,Pa,United States
+85184,Old greenwich,CT,United States
+85194,Pleasanton,CA,United States
+85208,Barrie,ON,Canada
+85240,Denver,CO,United States
+86184,New York,NY,United States
+87088,Omaha,Ne,United States
+87484,Buena Vista,VA,United States
+87922,Modesto,CA,United States
+88074,Greenwood,IN,United States
+88092,Cobains,Vic,Australia
+88622,Happy Valley,OR,United States
+88774,Stone mountain,Georgia,United States
+88888,Casper,Wy,United States
+89098,Edmonton,Alberta,United States
+90106,Manchester,greater manchester,United Kingdom
+90104,Karlsruhe,Deutschland,Germany
+89778,Berlin,Berlin,Germany
+90002,London,Greenwich,United Kingdom
+90620,Palma,Balearic Islands,Spain
+90670,League City,TX,United States
+92010,Monaca,PA,United States
+92498,Portland,OR,United States
+92724,North Hero,VT,United States
+90264,Houston,Tx,United States
+90710,Dallas,Texas,United States
+90984,Plain City,Utah,United States
+94164,Matthews,NC,United States
+94750,Nepean,ON,Canada
+94956,Guatemala,Seleccione una,Guatemala
+95566,Victoria,BC,Canada
+96060,Balgowlah,NSW,Australia
+96094,Goodlettsville,Tn,United States
+96590,Frimley,SURREY,United Kingdom
+96818,Seattle,Washington,United States
+97078,Edmonton,Alberta,Canada
+97488,Bournemouth,Dorset,United Kingdom
+97680,Honolulu,Hawaii,United States
+97804,Brooklyn,NY,United States
+98154,New Delhi,Delhi,India
+98046,Maple Valley,WA,United States
+98504,Rockford,Mi,United States
+98590,Lethbridge,AB,Canada
+99048,West Sacramento,CA,United States
+99412,Freeport,IL,United States
+99884,Albert Park,VIC,Australia
+652,East Northport,NY,United States
+1106,Trenton,ON,Canada
+1694,Petaluma,CA,United States
+2916,Tartu,Please select your state,Estonia
+218,Ojai,CA,United States
+4170,Tustin,CA,United States
+6028,Northwood,NH,United States
+6046,Shelton,Washington,United States
+6124,Langwarrin,Victoria,Australia
+6208,Lees summit,MO,United States
+6028,Austin,TX-Texas,United States
+6606,Shortland,New South Wales,Australia
+9146,Washington,DC - DISTRICT OF COLUMBIA,United States
+8474,Belgrade,Serbia,Serbia
+8794,Fairburn,Georgia,United States
+8508,Atlanta,GA,United States
+8198,Oraefi,Hornafjordur,Iceland
+7772,Hong Kong,HK,Hong Kong
+7692,Ipswich,Suffolk,United Kingdom
+10266,Arlington,VA,United States
+12656,Mississauga,ON,Canada
+12666,Silver Spring,MD,United States
+10064,Arden,NC,United States
+10276,Clarksburg,MD,United States
+10094,Mechanicsburg,Pa,United States
+10750,Surabaya,East Java,Indonesia
+10822,Los Gatos,CA,United States
+14042,San bruno,CA,United States
+14572,Wyongah,NSW,Australia
+15174,Brooklyn,New York,United States
+15182,Arundel,Queensland,Australia
+15016,New Taipei City,N/A,Taiwan
+15800,Tobaccoville,NC,United States
+15864,Glendale,CA,United States
+16076,Alameda,CA,United States
+16754,Santa Monica,CA,United States
+16920,Chicago,IL,United States
+16922,New York,NY,United States
+17012,Centerville,OH,United States
+17276,Houston,TX,United States
+18556,Indianapolis,Indiana,United States
+18602,Portland,or,United States
+18692,Swanson,Auckland,New Zealand
+19108,Arlington,TX,United States
+19248,Manton,CA,United States
+19700,Tracy,CA,United States
+21954,Beverly Hills,MI,United States
+22018,London,Hackney,United Kingdom
+21844,London,Ontario,Canada
+21912,Chicago,IL,United States
+21672,Queensbury,NY,United States
+20608,Anchorage,ak,United States
+20644,Santa Monica,CA,United States
+20742,Pensacola,Florida,United States
+20810,Santa Monica,CA,United States
+20824,Medellin,Antioquia,Colombia
+24616,Copenhagen,S,Denmark
+24818,Santa Monica,California,United States
+24988,Phaltan,Mh,India
+25020,La Palma,CA,United States
+25700,Pleasanton,CA,United States
+25710,Riverside,Ca,United States
+25906,Santa Monica,CA,United States
+26072,San Francisco,CA,United States
+26088,Palm Harbor,FL,United States
+26002,Testville,CA,United States
+26088,Thornhill,Ontario,United States
+26418,Ghaziabad,Uttar Pradesh,India
+26670,San Francisco,CA,United States
+26774,Santa Monica,CA,United States
+26804,El Centro,CA,United States
+26818,Santa Monica,CA,United States
+26910,Santa Monica,CA,United States
+26906,San Francisco,CA,United States
+26952,Toronto,ON,Canada
+27056,Burbank,CA,United States
+27258,Santa Monica,CA,United States
+27806,Calgary,AB,Canada
+28404,La Prairie,QC,Canada
+28464,Bwari,ab,Nigeria
+786,Karachi,Sindh,Australia
+1018,Fairfax,VA,United States
+1602,Gregory,MI,United States
+1682,Johannesburg,Gauteng,South Africa
+1856,Richmond Hill,Ontario,Canada
+1900,Calgary,Alberta,Canada
+1994,Seattle,WA,United States
+2786,Santa Monica,CA,United States
+2802,Santa Monica,CA,United States
+2852,Smyrna,Georgia,United States
+84,Hoogstraten,Antwerpen,Belgium
+412,Santa Maria,CA,United States
+486,Sherbrooke,QC,Canada
+504,Santa Monica,CA,United States
+4048,WASHINGTON,District of Columbia,United States
+4928,Littleton,CO,United States
+6044,Ivan?na Gorica,Slovenia,Slovenia
+7766,King's Lynn,Norfolk,United Kingdom
+8048,Chicago,Il,United States
+8004,Scarsdale,NY,United States
+8608,Torrance,CA,United States
+8786,Quezon City,Metro Manila,Philippines
+9604,Winnipeg,Manitoba,Canada
+40908,"Swanley, Kent",----,United Kingdom
+41110,Garner,NC,United States
+41416,Hong Kong,Hong Kong,Hong Kong
+41454,La Palma,CA,United States
+42200,Doylestown,PA,United States
+42256,Pennsville,NJ,United States
+42474,Los Altos,CA,United States
+42714,Clifton,NJ,United States
+42722,Kirkland,WA,United States
+44148,West hartford,Connecticut,United States
+45504,Mumbai,Maharashtra,India
+45590,Linden,texas,United States
+45966,Valparaiso,IN,United States
+46174,Flagstaff,Az,United States
+46986,Cypress,TX,United States
+47064,Detroit,MI,United States
+47518,Tucson,AZ,United States
+47842,Incline Village,Nv,United States
+48014,Elkhart,in,United States
+54512,Suva,Suva,Fiji
+50904,Los Angeles,California,United States
+50712,Amsterdam,North-Holland,Netherlands
+50010,London,England,United Kingdom
+50220,Chandler,AZ,United States
+52896,Basking Ridge,NJ,United States
+51656,London,London,United Kingdom
+49498,Blackhall Colliery,Cleveland,United Kingdom
+50894,Nice,PACA,France
+50070,Burlington,Vt,United States
+50076,SACHSE,TX,United States
+49664,Allen Park,MI,United States
+55298,Brooklyn,New York,United States
+55416,Vancouver,BC,Canada
+55602,Hong Kong,Hong Kong,Hong Kong
+56110,Etobicoke,ON,Canada
+56640,El Sobrante,CA,United States
+56862,Oakland,CA,United States
+57466,Beaumaris,Vic,Australia
+57926,Poughkeepsie,NY,United States
+58000,Perth,WA,Australia
+59090,Lima,Lima,Peru
+59442,Georgetown,DE,United States
+59816,South Lake Tahoe,CA,United States
+60482,Palmetto,FL,United States
+60556,Mumbai,MH,India
+60708,Belleville,Illinois,United States
+61518,Quito,Pichincha,Ecuador
+62082,Houston,Texas,United States
+60066,Colorado Springs,CO,United States
+60180,London,London,United Kingdom
+66566,Peoria,IL,United States
+64188,BANGALORE URBAN DISTRICT,KARNATAKA,United States
+65490,Kangra,Himachal Pradesh ,Australia
+65014,Wilmington,North Carolina,United States
+65080,Mississauga,On,Canada
+64762,San Diego,CA,United States
+67110,Dallas,TX,United States
+67068,Santa Monica,CA,United States
+67546,Mistissini,Quebec,Canada
+67624,Santa Monica,CA,United States
+67982,Lincoln,Lincolnshire,United Kingdom
+69008,Hart,Tx,United States
+69084,Santa Monica,CA,United States
+69000,Santa Monica,CA,United States
+69694,Orange,CA,United States
+70020,San Antonio,TX,United States
+70654,Sydney,NSW,Australia
+70744,Bronx,New York,United States
+70746,Westminster,CO,United States
+70800,M;nchen,Bayern,Germany
+70876,Atlanta,GA,United States
+70902,Fort Worth,TX - Texas,United States
+70942,Fort Mill,Sc,United States
+70992,Edmonton,Alberta,Canada
+71044,Edmond,OK,United States
+71098,Cranberry Twp,PA,United States
+70592,Vancouver,BC,Canada
+70908,Ann arbor,MI - Michigan,United States
+70510,Ann Arbor,MI,United States
+70894,Gilbert,AZ,United States
+70570,San Jose,CA,United States
+72856,Wakefield,MA,United States
+70196,Santa Monica,CA,United States
+72504,S?o Paulo,SP,Brazil
+71512,Los Altos,CA,United States
+71420,Setagaya-ku,Tokyo,Japan
+71010,Lincoln,California,United States
+74256,Irvine,CA,United States
+74264,Riverside,CA,United States
+74278,San Mateo,CA,United States
+74076,Duluth,georgia,United States
+74406,Mississauga,ON,Canada
+74508,Toronto,Ontario,Canada
+74956,New Orleans,LA,United States
+75148,Santa Monica,CA,United States
+75170,Santa Monica,CA,United States
+75518,Virginia Beach,Virginia,United States
+75598,Severna Park,MD,United States
+75696,Montevideo,Uruguay,Uruguay
+75974,Smyrna,GA,United States
+76078,Granger,Indiana,United States
+81278,CLAYTON,VIC,Australia
+80080,Cypress,TX,United States
+79662,Seattle,WA,United States
+80846,Zachary,LA,United States
+80804,Menomonee Falls,WI,United States
+80708,Toronto,Ontario,Canada
+80460,Bridgeport,CT - Connecticut,United States
+79486,Richmond,VA,United States
+80176,Winnipeg,Manitoba,Canada
+79524,San Luis Obispo,CA,United States
+80150,Washington,DC,United States
+79554,Palo alto,ca,United States
+79700,Ottawa,ON,Canada
+79290,Hallsville,TX,United States
+78726,Colorado Springs,CO,United States
+78208,Newmarket,ON,Canada
+77992,Earlwood,New South Wales,Australia
+77462,Bradford,W Yorks,United Kingdom
+77570,Montclair,Virginia,United States
+81660,Garland,UT,United States
+81690,Long Beach,CA,United States
+81700,Salt Lake City,Utah,United States
+81986,West Des Moines,Iowa,United States
+82048,Hartselle,AL,United States
+82100,Austin,TX,United States
+82450,Teneriffe,Q,Australia
+82512,Lafayette,Ca,United States
+80202,Chelan,WA,United States
+80196,Rancho Cordova,Ca,United States
+82924,Cape Town,Western Cape,South Africa
+82828,Prague,Prague,Czech Republic
+86108,Frederick,MD,United States
+84468,HUNTINGDON VALLEY,Pennsylvania,United States
+85926,Lier,Buskerud,Norway
+80800,Dmitrov,Moscow,Russian Federation
+84090,South Salt Lake,Utah,United States
+85804,Lansdale,PA,United States
+85054,San Diego,CA,United States
+84120,Guelph,ON,Canada
+80920,North York,Ontario,Canada
+84058,St. Louis,MO,United States
+84916,Edmonton,AB,Canada
+84254,Halls Head,Western Australia,Australia
+84174,Bayside,NY,United States
+80728,Lynwood,Illinois,United States
+80684,Bangor,ME,United States
+86708,Berkeley,CA,United States
+86720,St. John's,Newfoundland,Canada
+86502,Canyon Lake,Texas,United States
+86446,Dublin,CA,United States
+86462,Santa Monica,CA,United States
+86422,Wyncote,PA,United States
+86410,Santa Monica,CA,United States
+84902,San Dimas,California,United States
+86070,Santa Monica,CA,United States
+86820,South Bend,IN,United States
+86912,New York,ny,United States
+87104,Jupiter,fl,United States
+87144,Eden Prairie,MN,United States
+87196,Bellevue,Washington,United States
+87190,Ladera Ranch,CA,United States
+87290,Palm Beach Gardens,fl,United States
+87696,Ipoh,Perak,Malaysia
+87694,Palma de Mallorca,Balearic Islands,Spain
+87964,Singapore,Singapore,Singapore
+88192,Willougby,NSW,Australia
+88050,Reynoldsburg,Ohio,United States
+88048,El Paso,TX,United States
+88402,Abuja,FCT,United Kingdom
+88486,Faulconbridge,NSW,Australia
+88476,Astana,Akmolinskaya oblast,Kazakhstan
+88704,Vicente L;pez,Buenos Aires,Argentina
+88852,Ballymena,Antrim,United Kingdom
+89120,Toronto,Ontario,Canada
+89276,North Andover,Massachusetts,United States
+89528,Wellsville,New York,United States
+89580,Newton,Massachusetts,United States
+89706,Fernie,British Columbia,United States
+89846,Salina,KS,United States
+89982,Bridgewater,Ma,United States
+90212,London,London,United Kingdom
+90020,Los Angeles,California,United States
+90616,Cumming,GEORGIA,United States
+90608,New York,NY,United States
+90606,LEIGH-ON-SEA,Essex,United Kingdom
+90602,Alliance,Ohio,United States
+90808,Boston,MA,United States
+90884,Miraflores de la Sierra,Madrid,Spain
+90920,New York,New York,United States
+91280,Los Angeles,CA,United States
+91076,Vienna,VA,United States
+91066,North Babylon,NY,United States
+91414,Sao Paulo,SP,Brazil
+91412,Alameda,CA,United States
+91452,Quer;taro,Qro,Mexico
+91444,Hallandale,FL,United States
+91408,Ormond Beach,Florida,United States
+91406,New York,New York,United States
+91474,Ellington,CT,United States
+91468,San Diego,CA,United States
+91680,Bangalore,KARNATAKA,India
+91704,Long Pond,pa,United States
+91758,Tolono,IL,United States
+91796,MINNEAPOLIS,MN,United States
+91814,Washington,DC,United States
+91856,Reno,Nevada,United States
+91822,Brookvale,NSW,Australia
+91802,Greenacres,Fl,United States
+91884,Los Angeles,California,United States
+91868,Miami,fl,United States
+91894,Huntington Beach,CA,United States
+91922,Washington,DC,United States
+91900,Cliffside Park,New Jersey,United States
+91966,Santiago,Region Metropolitana,Chile
+91956,Colorado Springs,CO,United States
+92078,Miami,QLD,Australia
+92092,West Covina,CA,United States
+92118,Kimberly,ID,United States
+92200,Halfmoon Bay,BC,Canada
+92242,Carterville,illinois,United States
+92202,Los Angeles,CA,United States
+92228,Lafayette,California,United States
+92474,Hudson,QLD,Australia
+92960,Indianapolis,IN,United States
+92980,Prince George,British Columbia,Canada
+90152,Manchester,NH,United States
+90010,Tokyo,Tokyo,Japan
+90282,Toronto,Ontario,Canada
+90026,Forest Hills,NY,United States
+90096,Victoria,Tx,United States
+90906,Jackson,TN,United States
+90996,Mitcham,Surrey,United Kingdom
+94102,Selma,TX,United States
+94202,Van Nuys,CA,United States
+94240,Glasgow,Glasgow,United Kingdom
+94028,Scottsdale,AZ,United States
+94628,Gracetown,Western Australia,Australia
+94616,Buckingham,VA,United States
+94970,Chevy Chase,Maryland,United States
+95004,San Francisco,CA,United States
+95084,Brooklyn,NY,United States
+95456,Ashburn,Virginia,United States
+95566,Edgewater,NJ,United States
+95778,Elwood,Victoria,Australia
+95824,Indianapolis,Indiana,United States
+96554,London,England,United Kingdom
+96642,Ballina,Mayo,Ireland
+97092,Annandale,NJ,United States
+97126,Pflugerville,TX,United States
+97218,Danville,CA,United States
+97272,BROOKLYN,NY,United States
+97000,OSLO,-- Non U.S. --,United Kingdom
+97910,Houston,Texas,United States
+98424,Pickering,Ontario,Canada
+98978,Cleveland,Oh,United States
+99048,San Francisco,Ca,United States
+99914,Stockport,Cheshire,United Kingdom
+696,NEW YORK,NY,United States
+688,Santa Monica,CA,United States
+680,Santa Monica,CA,United States
+806,London,ON,Canada
+906,Glanmire,Cork,Ireland
+1120,La Grange Park,IL,United States
+1188,Santa Monica,CA,United States
+1596,Kapolei,Hawaii,United States
+1626,Berlin,Brandenburg,Germany
+2154,Baltimore,MD,United States
+2254,London,LONDON,United Kingdom
+2406,Fort Smith,AR,United States
+2408,Jakarta,Jakarta,Indonesia
+2652,Glenview,IL,United States
+2888,Asheville,NC,United States
+2944,Brampton,ON,United States
+582,Bronx,NY,United States
+812,Mount Evelyn,Vic,Australia
+970,Johannesburg,Gauteng,South Africa
+4076,Squamish,BC,Canada
+4124,D3;sseldorf,NRW,Germany
+4412,Outremont,QC,Canada
+4866,HYDERABAD,TELENGANA,India
+5000,Colchester,Essex,United Kingdom
+5056,NORTH OLMSTED,OH,United States
+5158,St Andrews,NB,Canada
+5076,Marengo,IA,United States
+5404,Benoni,NA,South Africa
+5506,Salta,Salta,Argentina
+5676,Collingwood,Victoria,Australia
+5802,Toronto,Ontario,Canada
+5866,Atlanta,Ga,United States
+5892,London,Greater London,United Kingdom
+6794,Edmonton,AB,Canada
+6928,Santa Monica,CA,United States
+7292,Erode,Ta,India
+7056,Langley,BC,Canada
+7400,Puchong,Selangor,Malaysia
+7504,Winter Park,FL,United States
+7504,Springfield Gardens,NY,United States
+7700,Lake Country,BC,Canada
+7846,Leichlingen,Nrw,Germany
+8006,Sharon,MA,United States
+8120,Santa Monica,CA,United States
+8744,Franklin Square,NY,United States
+8902,Saint Louis,MO,United States
+8922,Glenarm,Illinois,United States
+9052,Long Island City,NY,United States
+9100,Denver,Colorado,United States
+9124,Santa Monica,CA,United States
+9142,Calgary,AB,Canada
+9172,Raleigh,NC,United States
+9522,Mercer Island,Washington,United States
+9608,Wheeling,We,United States
+9726,Aurora,CO,United States
+10728,PERTH,WA,Australia
+10926,Shaker Heights,Ohio,United States
+11146,West Babylon,NY,United States
+11206,Toronto,Ontario,Canada
+11274,Dana Point,CA,United States
+11260,River Edge,NJ,United States
+11692,Santiago,Metropolitana,Chile
+11728,Reno,NV,United States
+11980,Vacaville,CA,United States
+12028,Calgary,Alberta,United States
+12168,Spring,TX,United States
+12226,McClellandtown,Pennsylvania,United States
+12044,Ozark,MO,United States
+12410,Alexandria,Virginia,United States
+12476,San Francisco,California (CA),United States
+10428,Zoetermeer,Zuid Holland,Netherlands
+10578,Scotch plains,nj,United States
+10570,Chicago,Il,United States
+10566,Santa Monica,CA,United States
+10760,North Easton,MA,United States
+10814,Littleton,CO,United States
+14002,Barrie,ON,United States
+14228,Santa Rosa Beach,FL,United States
+14406,EDMONTON,AB,Canada
+14476,Chicago,IL,United States
+14602,Faslane,argyll and bute,United Kingdom
+14680,Dana Point,CA,United States
+14700,Bronx,NY,United States
+15142,Duncraig,WA,Australia
+15058,Wanniassa,ACT,Australia
+15652,Arlington,VA,United States
+15806,Manhasset Hills,NY,United States
+16172,Kennesaw,Georgia,United States
+16722,Garfield,NJ,United States
+16778,Cambridge,MA,United States
+16814,"Kluang, Johor",1,Malaysia
+16942,Fort Saskatchewan,AB,United States
+16992,Edina,MN,United States
+17184,BRAMPTON,Ontario,Canada
+17254,West Melbourne,VIC,Australia
+17840,Aurora,OH,United States
+18002,AWKA,An,Nigeria
+18482,Princeton,NJ,United States
+18646,Westerlo,AA,United States
+18708,Cupertino,ca,United States
+19096,Sherman Oaks,CA,United States
+19264,Auckland,AKL,New Zealand
+19614,Pasadena,Texas,United States
+19706,Pristina,Kosova,Albania
+20060,Deinze,fl,Belgium
+20016,Orlando,Fl,United States
+20482,Cordele,GA,United States
+20576,Jakarta Timur,Jakarta,Indonesia
+20920,WILRIJK,antwerpen,Belgium
+21196,Las vegas,nv,United States
+21254,FERNANDINA BEACH,FL,United States
+21280,Philadelphia,PA,United States
+21014,South Jordan,UT,United States
+21542,Milwaukee,Wisconsin,United States
+21500,Louisville,KY,United States
+22002,Santa Monica,CA,United States
+22696,North Bay,ON,Canada
+20156,Liberty Township,OH,United States
+20080,ACCRA,GREATER ACCRA REGION,Ghana
+20628,London,London,United Kingdom
+24052,Santa Monica,CA,United States
+24404,Azusa,CA,United States
+24642,Santa Monica,CA,United States
+24684,Santa Monica,CA,United States
+24662,Santa Monica,CA,United States
+24706,Santa Monica,CA,United States
+24724,Santa Monica,CA,United States
+24744,Santa Monica,CA,United States
+24752,Tunbridge Wells,Kent,United Kingdom
+25070,Haramaya,Africa,United States
+25252,Santa Monica,CA,United States
+25740,New York,NY,United States
+25914,Murrieta,CA,United States
+26094,Popesti leordeni,Other,Romania
+26072,Luton,Bedfordshire,United Kingdom
+26090,Dunstable,Bedfordshire,United Kingdom
+26646,Bangkok,None (International),Thailand
+26676,Brunswick,ME,United States
+26844,Santiago,RM,Chile
+26858,Perkasie,PA,United States
+26980,Nugegoda,western,Sri Lanka
+27102,Lugano,Ticino,Switzerland
+27640,HILLSIDE,NJ,United States
+28062,Bay point,california,United States
+28166,Fremont,CA,United States
+28286,Kenitra,Maroc,United Kingdom
+28754,Florence,Italy,United States
+29102,Santa Monica,CA,United States
+29126,Santa Monica,CA,United States
+29222,Santa Monica,CA,United States
+29958,Los Angeles,CA,United States
+6,Crystal Lake,Il,United States
+184,Oakland,CA,United States
+84,Brooklyn,NY,United States
+806,Alameda,CA,United States
+1028,Haddam,CT,United States
+1450,Bloomfield,New Jersey (NJ),United States
+1476,Talant,c?te d'or,France
+1812,Santa Monica,CA,United States
+1800,Santa Monica,CA,United States
+1904,Phoenix,AZ,United States
+1926,Santa Monica,CA,United States
+1968,Santa Monica,CA,United States
+2018,New York,Ny,United States
+2248,New York,NY,United States
+2264,Santa Monica,CA,United States
+2280,Santa Monica,CA,United States
+2020,Santa Monica,CA,United States
+2714,Toronto,ON,Canada
+74,Coimbatore,tamilnadu,United States
+6,Lagos,lagos state,Nigeria
+518,Saipan,MP,United States
+646,Naperville,IL,United States
+4094,Brick,NJ,United States
+4500,Boulder City,NV,United States
+5106,Melaka,Melaka,Malaysia
+5182,Christchurch,Canterbury,New Zealand
+5504,London,London,United Kingdom
+6010,Neuwied,Rhineland-Palatinate,Germany
+6548,Dix Hills,NY,United States
+6586,Stillwater,MN,United States
+6722,Vancouver,BC,Canada
+6712,INDIANAPOLIS,IN,United States
+6794,Singapore,Singapore,Singapore
+7548,Edmonton,AB,Canada
+7780,Ellington,ct,United States
+8008,Anthony Village,Lagos,Nigeria
+8276,Bristol,Av,United Kingdom
+8508,Skopje,MK,Republic of Macedonia
+9050,South Houston,TX,United States
+9264,Burraneer,NSW,Australia
+40026,Gravesend,kent,United Kingdom
+40604,San Diego,CA,United States
+40802,Crystal palace,London,United Kingdom
+41104,Stanwood,MI,United States
+41202,Surrey,Br,Canada
+41092,Ashtead,Surrey,United Kingdom
+41550,Toronto,ON,Canada
+41868,MAUSTON,Wi,United States
+42104,Belgrade,Serbia,Serbia
+42148,San Jose,California,United States
+42266,Fort William,Highland,United Kingdom
+40170,Byron Center,MI,United States
+40220,Chicago,IL,United States
+40208,Calgary,AB,Canada
+40094,Pabrade,LT,Lithuania
+40402,London,London,United Kingdom
+40080,Cote st luc,qc,Canada
+40760,Pleasanton,CA,United States
+40788,Grimsby,ON,Canada
+40804,United States,CA,United States
+40826,United States,CA,United States
+40902,League City,Tx,United States
+44008,Richmond Hill,ON,Canada
+44000,Hospitalet de Llobregat,Barcelona,Spain
+44044,Draper,ut,United States
+44068,Santa Monica,CA,United States
+44466,Basking Ridge,NJ,United States
+44504,Mexicali,BC,Mexico
+44506,Rochester,NY,United States
+44996,Singapore,Singapore,Singapore
+45080,Auckland,Auckland,New Zealand
+45464,Cartagena,Bolivar,Colombia
+45684,Johannesburg,GP,South Africa
+45774,Beachwood,OH,United States
+45862,Strasbourg,Alsace,France
+45902,Santa Monica,CA,United States
+48228,Bala Cynwyd,PA,United States
+48568,Indianapolis,IN,United States
+49062,Cognac,Poitou-Charentes,France
+49242,Pleasanton,CA,United States
+49026,Pleasanton,CA,United States
+49406,Pleasanton,CA,United States
+49456,Santa Monica,CA,United States
+49544,Santa Monica,CA,United States
+52556,Honolulu,HI,United States
+52802,Sydney South,NSW,Australia
+52826,UPWEY,VIC,Australia
+50148,Bergkamen,NRW,Germany
+50048,Paris,FR,France
+54086,Pottstown,Pa,United States
+54408,San Diego,CA,United States
+54800,Portland,OR,United States
+54878,Los Angeles,CA,United States
+55154,Riyadh,Riyadh,Saudi Arabia
+55656,Orchard Park,NY,United States
+55880,SAN DIEGO,California,United States
+57508,Bangalore,Karnataka,India
+58074,Bethlehem,PA,United States
+58406,Ifako Agege,La,Nigeria
+58526,Sudbury,Ontario,Canada
+58626,Santa Monica,CA,United States
+58784,Santa Monica,CA,United States
+58910,Santa Monica,CA,United States
+58996,Whistler,BC,Australia
+59110,Spokane,WA,United States
+59294,New York,NY,United States
+59284,Denver,CO,United States
+59070,Robbinsdale,MN,United States
+59590,San Francisco,CA,United States
+60164,Mumbai,Maharashtra,India
+60442,Jakarta Timur,DKI Jakarta,Indonesia
+60880,Keyport,NJ,United States
+60618,Baxter,MN,United States
+62668,Milton,ON,Canada
+62660,Bois-Colombes,IDF,France
+61880,Crestview,FL,United States
+62092,Frederiksv?rk,Halsn?s,Denmark
+62270,San Jose,CA,United States
+61914,Dubai,Dubai,United Arab Emirates
+61958,Kurashiki-shi,Okayama,Japan
+61774,Saskatoon,sk,Canada
+61568,Odessa,Tx,United States
+61528,BANGALORE,KARNATAKA,India
+60496,Santa Monica,CA,United States
+61226,Thomasville,Ga,United States
+61156,Reston,VA,United States
+62856,HERAKLION,CRETE,Greece
+62892,Cornelius,NC,United States
+60224,Houston,TX,United States
+60226,Santa Monica,CA,United States
+60276,Santa Monica,CA,United States
+60046,Napa,CA,United States
+60060,Battle,East Sussex,United Kingdom
+60506,Dubai,Dubai,United Arab Emirates
+60552,Toronto,ON,United States
+60870,Methuen,MA,United States
+60888,Henniker,NH,United States
+64022,Chicago,IL,United States
+64176,Severna Park,MD,United States
+64240,American Fork,UT,United States
+64080,New York,NY,United States
+64460,Berkeley,CA,United States
+64686,Roswell,GA,United States
+64722,San Marino,CA,United States
+64780,Listowel,Ca,Canada
+64916,Hurst,TX,United States
+64918,Mindarie,WA,Australia
+65196,Parnell,Auckland,New Zealand
+65154,Los angeles,ca,United States
+64968,Kuala Lumpur,KL,Malaysia
+65484,St Ives,NSW,Australia
+65978,San Diego,CA,United States
+66162,Port-harcourt,bayelsa,Nigeria
+66058,Burlington,ON,Canada
+66448,Concord,MA,United States
+66502,Trier,Rhineland-Palatine,Germany
+66794,Walnut Creek,Ca,United States
+66908,Alameda,CA,United States
+67040,Athol Park,SA,Australia
+67448,Toronto,ON,Canada
+67502,Berlin,Berlin,Germany
+67610,Los Angeles,CA,United States
+67648,Copenhagen,cp,Denmark
+67658,Mannedorf,Zurich,Switzerland
+67674,Singapore,Singapore,Singapore
+67764,Datyon,OH,United States
+68152,Montmagny,qc,Canada
+68224,Santa Monica,CA,United States
+68454,Copenhagen,Zealand,Denmark
+68518,Fort Worth,TX,United States
+68508,Visalia,CA,United States
+68652,Santa Monica,CA,United States
+68692,Chattanooga,TN,United States
+68762,San Antonio,TX,United States
+68780,Penndel,PA,United States
+68774,Santa Monica,CA,United States
+68866,Studio City,CA,United States
+68900,Glencoe,IL,United States
+68970,Santa Monica,CA,United States
+68962,Santa Monica,CA,United States
+68992,New York,NY,United States
+69002,Manchester,Cheshire,United Kingdom
+69064,West Dundee,IL,United States
+69400,Toronto,ON,Canada
+69416,Cowichan Bay,BC,Canada
+69448,Dothan,AL,United States
+69488,Boca raton,Fl,United States
+69578,Chicago,IL,United States
+69624,Brisbane,Queensland,Australia
+69670,Edmonton,AB,Canada
+69708,Whitefish Bay,WI,United States
+69800,Fountain Valley,CA,United States
+69842,MUMBAI,MAHARASHTRA,India
+69852,Van Nuys,CA,United States
+69846,Seattle,WA,United States
+70160,Toronto,on,Canada
+70024,Rivera,TI,Switzerland
+70986,Taylorsville,UT,United States
+71792,Tustin,CA,United States
+71898,Sorrento,WA,Australia
+71964,Atlanta,GA,United States
+72050,Houston,TX,United States
+72594,Timmins,Ontario,Canada
+72724,JAMBEROO,NSW,Australia
+72800,San Antonio,Texas,United States
+72970,Melbourne,Victoria,Australia
+70196,Lorain,OH,United States
+70256,Lelystad,Flevoland,Netherlands
+70022,Bergenfield,NJ,United States
+70068,Pittsburgh,PA,United States
+70690,Tsim Sha Tsui,Kowloon,Hong Kong
+70824,Saint Peters,MO,United States
+70870,Rogers,MN,United States
+74004,Leland,MI,United States
+75124,Leighton Buzzard,Bedfordshire,United Kingdom
+75000,Santa Monica,CA,United States
+75420,Brooklyn,NY,United States
+75562,Petaluma,CA,United States
+75786,Muzaffar pur,bihar,India
+75794,Orlu,Imo,Nigeria
+75848,Kirkland,WA,United States
+75908,Mission Viejo,CA,United States
+75954,Atlanta,Georgia,United States
+76598,Lexington,South Carolina,United States
+76982,Berkeley,CA,United States
+77100,Gwacheon-si,Kyeonggi-do,South Korea
+77486,Worthing,Sussex,United Kingdom
+77496,Fort Worth,TX,United States
+78200,Arcadia,Ca,United States
+78200,Santa Monica,CA,United States
+78258,Santa Monica,CA,United States
+78286,Round Rock,TX,United States
+78774,Jamestown,North Carolina,United States
+78948,Waterford,MI,United States
+79584,Portland,OR,United States
+80112,North Arlington,NJ,United States
+80482,MIAMI,FL,United States
+80506,Bristol,So,United Kingdom
+80604,Ligonier,Pennsylvania,United States
+81048,Kingston,N/A,Jamaica
+81142,Omaha,NE,United States
+81746,Vancouver,BC,Canada
+81954,Bardon,QLD,United States
+82298,Seoul,Gyeonggi,South Korea
+82684,Cheltenham,VIC,Australia
+82920,Toowong DC,QLD,Australia
+80004,Santa Monica,CA,United States
+80046,Springfield,PA,United States
+80616,Vail,co,United States
+80646,Prole,Iowa,United States
+80682,Tyler,TX,United States
+80890,K?odzko,Dolnyslask,Poland
+84502,RACINE,Wi,United States
+84584,St. Louis,MO,United States
+84612,Trois-Rivi;res,Quebec,Canada
+84800,Merate,LC,United Kingdom
+86002,San Francisco,CA,United States
+86402,Montgomery,TX,United States
+86600,Sydney,NSW,Australia
+86658,Bangalore,Karnataka,India
+86812,Morgan city,LA,United States
+87274,SAN JOSE,CA,United States
+87600,Toronto,Ontario,Canada
+87958,RIVERSIDE,CA,United States
+88448,Portland,or,United States
+89008,Poulsbo,WA,United States
+89004,Dallas,TX,United States
+89478,Vancouver,BC,Canada
+90416,Elm City,NC,United States
+90584,Meerut,Up,United States
+90688,Portland,OR,United States
+91048,Sandton,Gauteng,South Africa
+91112,Atlantic Beach,NY,United States
+91166,New York,NY,United States
+91660,Yalah,FL,United States
+92954,Halen,Limburg,Belgium
+90826,Oakville,On,Canada
+94766,Not available.,Not available.,Norway
+94828,Toronto,ON,Canada
+95576,Seljord,Telemark,Norway
+95608,Doncaster,VIC,Australia
+96082,Santa Monica,CA,United States
+96066,Santa Monica,CA,United States
+96094,Santa Monica,CA,United States
+96126,Santa Monica,CA,United States
+96120,Santa Monica,CA,United States
+96102,Santa Monica,CA,United States
+96178,Santa Monica,CA,United States
+96172,Santa Monica,CA,United States
+96240,Santa Monica,CA,United States
+96284,Santa Monica,CA,United States
+96068,The Woodlands,TX,United States
+97010,London,London,United Kingdom
+97844,Santa Monica,CA,United States
+97886,Santa Monica,CA,United States
+98276,Farmington Hills,Michigan,United States
+98298,Moosonee,ON,Canada
+99810,Lisle,IL,United States
+1150,Miramar,FL,United States
+1664,Winnipeg,MB,Canada
+1962,Simpsonville,SC,United States
+2684,Doncaster East,VIC,Australia
+228,Cornwall,ON,Canada
+420,Fontana,Wi,United States
+456,Brentwood,MO,United States
+716,Saskatoon,SK,Canada
+828,Santa Monica,CA,United States
+874,Philadelphia,PA,United States
+4026,Wasilla,AK,United States
+4502,Beltsville,MD,United States
+4580,San Diego,CA,United States
+5178,Henderson,NV,United States
+5862,Santa Monica,CA,United States
+5778,Santa Monica,CA,United States
+5710,Newark,OH,United States
+5624,Denver,CO,United States
+6482,Brooklyn,NY,United States
+6822,Miami,FL,United States
+7042,Weston,Fl,United States
+7620,Ada,MI,United States
+7680,Midvale,UT,United States
+7820,Portland,OR,United States
+8514,Mullumbimby Creek,ns,Australia
+8728,Newport Beach,CA,United States
+8760,Moscow,Moscow,Russian Federation
+10976,Oakland,CA,United States
+11074,Myawadi,myanmar,Myanmar
+11158,Bundaberg,QLD,Australia
+11622,Fort Walton Beach,FL,United States
+11798,Dural,New South Wales,Australia
+12052,Bronx,NY,United States
+12688,Seattle,Washington,United States
+10914,Muscat,Mu,Oman
+14552,Santa Monica,CA,United States
+14600,Santa Monica,CA,United States
+15050,San Francisco,CA,United States
+15866,Huntington Beach,CA,United States
+17406,Bangalore,KA,India
+17950,Nashville,Tennessee,United States
+17992,Rapid City,SD,United States
+18094,Brooklyn,NY,United States
+18252,Santa Monica,CA,United States
+18576,Santa Monica,CA,United States
+18626,Norwalk,CT,United States
+18804,Dallas,Ga,United States
+19086,Houston,TX,United States
+19706,Lagos,Lagos,Nigeria
+20040,West Seneca,NY,United States
+20548,Central Islip,NY,United States
+20618,Ridgewood,NY,United States
+20608,Hyderabad,TS,India
+20778,Colorado Springs,CO,United States
+21260,Sagamu,Og,Nigeria
+21490,Santa Monica,CA,United States
+21774,Vancouver,BC,Canada
+21762,M?laga,M?laga,Spain
+21920,Bristol,CT,United States
+22120,Ann Arbor,MI,United States
+22200,Stamford,Connecticut,United States
+22082,Alameda,CA,United States
+22092,Parsippany,NJ,United States
+22402,Silver Spring,MD,United States
+22500,New York,NY,United States
+22582,Addison,IL,United States
+22906,Nowy dwor mazowiecki,mazowieckie,Poland
+20412,Hastings-on-Hudson,NY,United States
+20586,Spokane,WA,United States
+20594,Santa Monica,CA,United States
+20924,Fowler,CO,United States
+24176,Santa Monica,CA,United States
+24900,Brooklyn,NY,United States
+24522,San Francisco,CA,United States
+24096,San Francisco,CA,United States
+27444,L'Isle-sur-la-Sorgue,PACA,France
+27408,Dallas,TX,United States
+27158,Nuuk,Nuuk,Greenland
+26968,San Diego,CA,United States
+26570,Dallas,TX,United States
+26028,Clovis,CA,United States
+24206,Santa Monica,CA,United States
+28480,Miami,FL,United States
+29008,Brooklyn,New York,United States
+29696,Grand island,Ne,United States
+29760,Aragon,GA,United States
+29928,Syracuse,NY,United States
+29976,Sandy,UT,United States
+660,Mountain Iron,MN,United States
+1264,Abbottabad,KPK,Pakistan
+1692,New York,NY,United States
+2218,Toronto,Ontario,Canada
+2864,New Orleans,LA,United States
+544,South Sound,Gr,Cayman Islands
+650,Staten Island,NY,United States
+820,Berlin,D,Germany
+4062,Columbia,MD,United States
+4848,Dietikon,ZH,Switzerland
+4928,Santa Monica,CA,United States
+5006,Santa Monica,CA,United States
+5218,Montevideo,No,Uruguay
+5506,Lawrenceville,Ga,United States
+5688,Santa Monica,CA,United States
+5962,Millen,GA,United States
+6744,Oakland,CA,United States
+6822,San Francisco,CA,United States
+7602,MELBOURNE,VIC,Australia
+7708,San Gabriel,CA,United States
+7844,Santa Monica,CA,United States
+7824,Perama,Pireaus,Greece
+7878,Spokane,WA,United States
+8082,New York,NY,United States
+8482,San Jose,CA,United States
+8498,Highland Beach,FL,United States
+8520,Pleasanton,CA,United States
+8540,Pleasanton,CA,United States
+8810,Acrworth,ga,United States
+9206,Gainesville,GA,United States
+9202,Providence,RI,United States
+9200,Columbus,OH,United States
+9194,San Francisco,CA,United States
+9208,Haddock,GA,United States
+9260,Fulton,MD,United States
+9002,Toronto,ONTARIO,Canada
+9040,Eagan,MN,United States
+9066,Astoria,NY,United States
+9440,Louisville,CO,United States
+9464,Highlands Ranch,CO,United States
+9524,Canton,GA,United States
+9526,Mexico City,Be,Mexico
+9552,Turlock,CA,United States
+9580,Athens,AL,United States
+9702,Oceanside,CA,United States
+9748,Brentwood,Essex,United Kingdom
+40102,Morrisville,NC,United States
+40170,Petit-Bourg,Guadeloupe,Guadeloupe
+40080,St. Albert,AB,Canada
+40500,Inglewood,CA,United States
+40618,Vancouver,BC,Canada
+40642,Huntington Station,NY,United States
+41196,St Paul,MN,United States
+41500,Mumbai,Ma,India
+41664,Oakland,CA,United States
+42044,San Francisco,CA,United States
+40292,NEWARK,NOTTINGHAMSHIRE,United Kingdom
+44762,Clonmel,Co. Tipperary,Ireland
+44828,Erie,CO,United States
+45260,Santa Monica,CA,United States
+45014,Santa Monica,CA,United States
+45026,Santa Monica,CA,United States
+45024,Santa Monica,CA,United States
+45018,Santa Monica,CA,United States
+45016,Santa Monica,CA,United States
+45460,Budapest,Budapest,Hungary
+45640,San Jose,CA,United States
+45720,Santa Monica,CA,United States
+46224,Newport Beach,CA,United States
+46442,Ilford,Greater London,United Kingdom
+46948,Jhb,gauteng,South Africa
+47828,Yonkers,NY,United States
+48050,Melbourne,Vi,Australia
+48456,Dallas,TX,United States
+49210,Fort Collins,CO,United States
+49580,Long Beach,CA,United States
+50960,Houston,TX,United States
+51282,Lelystad,Flevoland,Netherlands
+51084,Bronx,NY,United States
+52886,Trondheim,Sor Trondelag,Norway
+52884,Geelong West,VIC,Australia
+50570,Tom Price,Western Australia,Australia
+54908,LIC,New York,United States
+55080,Citrus Heights,CA,United States
+56016,Chicago,IL,United States
+56202,Burlington,On,Canada
+56206,Singapore,SG,Singapore
+56002,Clifton Park,New York,United States
+56482,Cilacap,Jawa Tengah,Indonesia
+56722,Bamberg,Bayern,Germany
+58278,Centreville,VA,United States
+58602,Las Vegas,NV,United States
+58840,San Antonio,Tx,United States
+59692,Cambridge,MA,United States
+59778,London,United Kingdom,United States
+60068,Santa Monica,CA,United States
+60602,Vancouver,BC,Canada
+61028,Princeton,NJ,United States

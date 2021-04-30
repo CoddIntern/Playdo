@@ -1,0 +1,28 @@
+select z.customer_id, z.create_date, z.purchase_date, 
+        z.email_interractions, y.country, 
+        y.state, y.city, 
+        z.product_name, 
+        z.revenue, (y.cpc * z.cus_cnt)cost, (z.revenue - (y.cpc * z.cus_cnt))profit
+	from 
+		(
+select a.customer_id, count(distinct a.customer_id)cus_cnt, date(a.create_date)create_date, date(b.purchaseDate)purchase_date,
+case when (a.email1 or a.email2 or a.email3 or a.email4 or a.email5 or a.email6 or a.email7) = '1' then 'Yes' else 'No' end email_interractions,
+		(d.product)product_name, sum(c.price)revenue
+		from Activity a
+		join Purchase_activity b
+		on b.customer_id = a.customer_id
+		join product_price c
+		on b.productid = c.productid
+		join Product d
+		on d.productid = b.productid
+		group by 1,3,4,5,6
+       		 )z
+			join
+				(
+				select distinct a.customer_id, a.country, b.state, b.city, a.cost cpc
+				from all_set a
+                    			join User_location b
+				on a.customer_id = b.customer_id
+				)y
+			on z.customer_id = y.customer_id
+group by 1,2,3,4,5,6,7,8
